@@ -1,1001 +1,1001 @@
-Age,Gender,Location,Income,Interests,Purchase_Frequency,Average_Order_Value,Total_Spending,Product_Category_Preference
-56,Male,Suburban,38037,Sports,7,18,2546,Books
-46,Female,Rural,103986,Technology,7,118,320,Electronics
-32,Female,Suburban,101942,Sports,1,146,3766,Apparel
-60,Female,Suburban,71612,Fashion,3,163,4377,Apparel
-25,Male,Suburban,49725,Travel,5,141,4502,Health & Beauty
-38,Male,Suburban,25926,Travel,8,25,2669,Books
-56,Male,Urban,124555,Fashion,7,152,1113,Home & Kitchen
-36,Male,Urban,29496,Technology,7,108,2151,Apparel
-40,Male,Rural,76447,Travel,6,130,4085,Books
-28,Male,Urban,121604,Food,8,61,4999,Electronics
-28,Male,Urban,49806,Travel,1,78,4410,Health & Beauty
-41,Male,Rural,108199,Food,2,14,3119,Electronics
-53,Female,Rural,61321,Fashion,9,29,3781,Apparel
-57,Female,Rural,142041,Fashion,7,88,1543,Apparel
-41,Male,Urban,122031,Travel,5,155,4296,Electronics
-20,Male,Urban,85095,Sports,9,120,3110,Apparel
-39,Female,Rural,42656,Food,8,11,672,Books
-19,Male,Suburban,75147,Technology,9,102,1432,Apparel
-41,Male,Rural,111396,Travel,3,22,4853,Health & Beauty
-61,Male,Suburban,69666,Technology,7,13,4102,Books
-47,Female,Suburban,102368,Travel,9,179,3234,Home & Kitchen
-55,Female,Rural,58787,Sports,2,118,4186,Apparel
-19,Female,Rural,133767,Sports,2,83,325,Apparel
-38,Female,Rural,82946,Sports,7,198,4300,Health & Beauty
-50,Female,Urban,41727,Sports,4,104,2097,Health & Beauty
-29,Male,Suburban,128351,Fashion,2,114,871,Electronics
-39,Female,Urban,115081,Fashion,9,17,4624,Electronics
-61,Male,Urban,142721,Food,0,76,533,Electronics
-42,Male,Rural,130058,Technology,2,119,3199,Health & Beauty
-44,Female,Urban,88056,Travel,8,18,2829,Electronics
-59,Female,Rural,23081,Travel,4,126,3507,Electronics
-45,Male,Suburban,54196,Fashion,9,20,3240,Home & Kitchen
-33,Male,Rural,56735,Travel,1,108,965,Electronics
-32,Male,Urban,124749,Fashion,6,51,2893,Apparel
-64,Female,Urban,100102,Food,1,150,3011,Health & Beauty
-61,Female,Rural,99578,Technology,3,173,2515,Books
-20,Female,Rural,45498,Food,6,129,350,Home & Kitchen
-54,Female,Urban,96865,Sports,3,150,3857,Health & Beauty
-24,Female,Suburban,51656,Sports,6,21,4756,Health & Beauty
-38,Male,Suburban,87695,Sports,6,46,1018,Apparel
-26,Female,Rural,57900,Food,0,83,1273,Electronics
-56,Male,Suburban,148392,Travel,5,82,3303,Apparel
-35,Male,Urban,137235,Technology,8,61,532,Electronics
-21,Male,Rural,104899,Sports,1,139,935,Electronics
-42,Female,Urban,67701,Sports,2,65,2346,Health & Beauty
-31,Female,Urban,128777,Sports,9,69,2362,Electronics
-26,Female,Suburban,39033,Technology,4,32,997,Home & Kitchen
-43,Male,Rural,143193,Sports,8,112,3732,Home & Kitchen
-19,Male,Rural,30805,Technology,3,49,4667,Home & Kitchen
-37,Male,Suburban,55851,Sports,0,73,3915,Health & Beauty
-45,Male,Urban,46832,Food,3,94,346,Apparel
-64,Male,Urban,83437,Food,5,160,2529,Books
-24,Male,Urban,135725,Technology,4,166,1090,Electronics
-61,Female,Urban,33944,Food,0,188,3410,Books
-25,Female,Rural,39873,Technology,3,98,1026,Apparel
-64,Female,Rural,60372,Food,5,40,3538,Apparel
-52,Female,Suburban,109464,Food,9,187,2707,Health & Beauty
-31,Male,Suburban,35379,Technology,9,29,1174,Home & Kitchen
-34,Male,Rural,137322,Travel,3,192,4122,Home & Kitchen
-53,Female,Rural,56751,Food,8,139,3899,Apparel
-57,Male,Urban,120082,Sports,4,162,4884,Health & Beauty
-21,Female,Urban,109822,Travel,7,22,3251,Health & Beauty
-19,Female,Suburban,25110,Technology,8,131,3538,Electronics
-23,Female,Rural,74341,Travel,9,112,4673,Home & Kitchen
-59,Male,Suburban,32087,Fashion,4,115,3591,Apparel
-21,Female,Rural,43762,Fashion,5,128,806,Books
-46,Female,Urban,135812,Food,0,79,3164,Home & Kitchen
-35,Female,Suburban,102617,Food,6,195,853,Electronics
-43,Male,Suburban,120483,Sports,3,108,687,Health & Beauty
-61,Male,Rural,29596,Travel,1,91,1434,Apparel
-51,Female,Urban,123555,Fashion,4,84,1947,Home & Kitchen
-27,Male,Suburban,127539,Food,2,127,4034,Books
-53,Male,Urban,38313,Travel,5,93,4026,Electronics
-31,Male,Suburban,133175,Food,7,78,3417,Electronics
-48,Male,Urban,86549,Food,6,68,4120,Home & Kitchen
-32,Male,Rural,134914,Fashion,2,197,3255,Books
-25,Male,Suburban,43705,Fashion,7,135,4402,Electronics
-31,Male,Suburban,87364,Food,1,120,2298,Apparel
-40,Male,Urban,93445,Technology,9,71,264,Electronics
-57,Male,Urban,123892,Food,8,153,2098,Books
-38,Male,Suburban,98645,Food,3,137,3157,Health & Beauty
-33,Female,Rural,22023,Sports,0,114,2184,Health & Beauty
-62,Female,Urban,139654,Sports,7,77,4528,Home & Kitchen
-35,Male,Urban,79796,Sports,6,24,502,Books
-64,Female,Urban,100073,Technology,4,192,513,Electronics
-41,Female,Suburban,112197,Technology,9,44,144,Electronics
-43,Male,Suburban,84429,Food,4,192,4257,Health & Beauty
-42,Male,Suburban,124195,Sports,6,23,2567,Health & Beauty
-62,Male,Suburban,81627,Technology,4,186,967,Apparel
-58,Female,Rural,53848,Fashion,7,111,118,Health & Beauty
-46,Female,Rural,57804,Food,5,109,464,Apparel
-32,Male,Suburban,35379,Travel,4,16,3932,Electronics
-62,Male,Rural,79664,Food,8,39,679,Apparel
-18,Male,Urban,47766,Travel,1,58,645,Apparel
-42,Female,Urban,129126,Sports,0,153,4250,Home & Kitchen
-24,Female,Urban,88099,Travel,7,120,4973,Health & Beauty
-26,Female,Suburban,56060,Sports,2,188,3139,Apparel
-41,Female,Urban,114733,Fashion,6,81,4237,Electronics
-18,Male,Rural,89122,Travel,9,89,4144,Books
-61,Male,Suburban,36087,Food,7,92,4426,Apparel
-25,Male,Rural,68868,Sports,5,51,552,Health & Beauty
-41,Male,Urban,139119,Food,9,26,4061,Home & Kitchen
-28,Female,Urban,43225,Technology,8,182,1481,Electronics
-34,Female,Urban,115286,Sports,6,16,1567,Home & Kitchen
-25,Male,Suburban,26643,Travel,9,164,2838,Books
-52,Male,Rural,113059,Sports,4,19,1316,Apparel
-52,Female,Suburban,56727,Food,7,43,980,Apparel
-50,Male,Suburban,31005,Fashion,1,45,3914,Health & Beauty
-22,Female,Urban,129079,Sports,6,162,3249,Apparel
-59,Male,Suburban,85697,Travel,3,15,184,Electronics
-56,Male,Suburban,36029,Technology,8,161,4244,Books
-58,Male,Urban,135281,Fashion,0,155,1268,Home & Kitchen
-45,Male,Suburban,34226,Technology,6,143,4264,Books
-24,Male,Urban,83646,Sports,5,38,3229,Apparel
-26,Male,Urban,80603,Food,7,135,3745,Home & Kitchen
-25,Male,Urban,48731,Food,4,162,2626,Health & Beauty
-29,Female,Urban,129458,Travel,0,192,2967,Books
-51,Female,Suburban,130384,Food,0,90,3616,Home & Kitchen
-50,Female,Urban,88926,Fashion,8,183,3467,Home & Kitchen
-40,Female,Urban,25997,Food,9,161,2294,Home & Kitchen
-41,Female,Suburban,75506,Travel,5,84,3655,Electronics
-54,Male,Suburban,98229,Sports,9,35,545,Books
-52,Male,Rural,69815,Sports,4,136,3726,Home & Kitchen
-61,Female,Suburban,62092,Food,0,124,4116,Books
-57,Male,Suburban,82539,Technology,5,135,3975,Home & Kitchen
-39,Female,Rural,86077,Sports,5,37,3437,Health & Beauty
-44,Female,Suburban,41817,Food,2,140,361,Health & Beauty
-52,Male,Suburban,57861,Travel,7,84,1948,Health & Beauty
-18,Male,Suburban,33428,Food,0,175,4125,Apparel
-52,Male,Suburban,63934,Sports,0,198,2366,Home & Kitchen
-54,Female,Rural,135555,Travel,5,87,191,Apparel
-64,Male,Suburban,134367,Food,9,188,4322,Books
-31,Female,Suburban,30258,Fashion,0,99,4275,Apparel
-20,Female,Rural,77775,Travel,5,185,3409,Books
-18,Female,Urban,101580,Fashion,0,30,1082,Books
-22,Male,Rural,114947,Technology,5,63,3543,Books
-43,Male,Urban,25469,Travel,2,193,2633,Apparel
-31,Female,Rural,48854,Fashion,7,112,793,Home & Kitchen
-56,Male,Rural,26256,Sports,5,68,4220,Apparel
-44,Male,Suburban,144086,Sports,0,81,255,Home & Kitchen
-26,Male,Urban,96256,Technology,4,188,3688,Home & Kitchen
-32,Female,Suburban,53937,Travel,7,29,1912,Books
-32,Female,Urban,119134,Travel,2,121,4214,Apparel
-43,Male,Rural,21651,Travel,5,68,1507,Home & Kitchen
-59,Female,Rural,70288,Technology,4,80,1316,Health & Beauty
-30,Male,Urban,104730,Travel,5,146,1510,Home & Kitchen
-49,Male,Suburban,45051,Sports,9,118,3597,Health & Beauty
-56,Male,Suburban,47386,Fashion,0,138,4472,Apparel
-49,Male,Suburban,95054,Sports,6,166,4940,Apparel
-21,Female,Suburban,131562,Sports,8,65,651,Apparel
-47,Female,Rural,36184,Fashion,1,44,3494,Home & Kitchen
-54,Female,Rural,53787,Sports,9,132,1276,Electronics
-40,Male,Rural,41621,Technology,4,140,4834,Home & Kitchen
-56,Male,Rural,95564,Fashion,9,113,4432,Home & Kitchen
-62,Male,Rural,97984,Sports,3,16,1097,Books
-32,Female,Suburban,79792,Food,5,36,4176,Books
-60,Male,Suburban,65253,Sports,5,10,2831,Home & Kitchen
-46,Female,Suburban,54051,Technology,1,181,4037,Health & Beauty
-53,Female,Suburban,69811,Travel,1,96,4152,Books
-30,Female,Rural,50447,Sports,3,50,472,Home & Kitchen
-49,Female,Rural,148046,Travel,0,132,2348,Electronics
-24,Female,Rural,103930,Food,8,84,948,Health & Beauty
-39,Female,Urban,143278,Sports,6,51,2656,Apparel
-45,Male,Suburban,120037,Fashion,6,126,2422,Home & Kitchen
-19,Male,Suburban,50254,Travel,2,170,603,Home & Kitchen
-59,Female,Rural,104045,Food,2,187,3289,Health & Beauty
-62,Female,Suburban,136859,Fashion,0,72,802,Books
-23,Male,Suburban,77418,Fashion,2,174,3725,Books
-45,Female,Rural,134534,Fashion,2,196,414,Books
-45,Female,Urban,34472,Fashion,3,136,2476,Apparel
-61,Male,Urban,131193,Sports,3,185,1140,Health & Beauty
-61,Female,Urban,23471,Sports,2,142,4478,Health & Beauty
-37,Female,Rural,127332,Sports,9,57,3090,Books
-47,Female,Suburban,140312,Food,7,12,357,Books
-28,Male,Rural,143379,Food,7,125,674,Electronics
-45,Male,Rural,115804,Food,0,184,4769,Electronics
-42,Male,Suburban,28329,Technology,6,199,1652,Home & Kitchen
-56,Female,Urban,54865,Food,1,108,4618,Home & Kitchen
-50,Female,Urban,66850,Sports,0,125,857,Health & Beauty
-18,Male,Rural,74220,Sports,2,23,2910,Health & Beauty
-44,Female,Urban,132234,Technology,3,121,1204,Apparel
-30,Female,Rural,113808,Technology,5,70,4624,Apparel
-58,Female,Rural,128381,Food,9,168,3559,Electronics
-20,Female,Suburban,26397,Travel,4,104,4092,Home & Kitchen
-56,Female,Suburban,117909,Technology,3,26,303,Electronics
-23,Male,Suburban,149004,Fashion,7,133,2875,Electronics
-25,Female,Rural,55525,Sports,3,33,2432,Home & Kitchen
-44,Male,Suburban,73072,Fashion,9,125,2092,Apparel
-26,Female,Urban,110106,Sports,1,160,2343,Home & Kitchen
-54,Male,Urban,103820,Sports,2,91,406,Books
-50,Female,Rural,104530,Technology,5,59,1787,Books
-59,Male,Rural,43284,Technology,7,88,4209,Books
-61,Female,Suburban,81330,Fashion,7,88,1960,Health & Beauty
-41,Male,Rural,103369,Sports,8,79,2061,Apparel
-32,Female,Rural,45122,Fashion,6,36,822,Apparel
-49,Male,Urban,90553,Travel,1,24,879,Health & Beauty
-49,Female,Urban,101906,Fashion,7,59,628,Electronics
-41,Male,Suburban,114788,Food,6,45,4993,Books
-58,Male,Rural,82812,Fashion,7,17,443,Books
-29,Female,Rural,27999,Food,2,88,3886,Electronics
-56,Female,Urban,42436,Food,6,140,3782,Home & Kitchen
-19,Male,Rural,62963,Food,9,199,308,Home & Kitchen
-20,Female,Urban,22096,Travel,8,56,4836,Apparel
-54,Male,Suburban,149940,Fashion,2,114,3506,Health & Beauty
-34,Male,Urban,133737,Fashion,9,107,1411,Apparel
-19,Male,Rural,45279,Travel,5,105,2399,Home & Kitchen
-19,Female,Suburban,141092,Sports,1,198,3436,Electronics
-45,Male,Urban,128899,Technology,1,169,2047,Apparel
-40,Male,Urban,134245,Fashion,4,125,1019,Books
-54,Female,Suburban,46201,Technology,4,22,2144,Books
-49,Female,Suburban,39715,Travel,6,10,518,Electronics
-50,Female,Urban,49309,Sports,1,43,1849,Home & Kitchen
-18,Female,Rural,35078,Sports,6,199,2942,Books
-36,Male,Urban,76614,Sports,4,88,1199,Books
-19,Male,Suburban,25105,Travel,5,87,3492,Health & Beauty
-61,Male,Urban,137666,Food,7,130,2872,Apparel
-43,Male,Suburban,114848,Food,9,102,2580,Home & Kitchen
-49,Female,Suburban,22839,Technology,3,107,1645,Apparel
-23,Male,Rural,88920,Food,6,91,1170,Home & Kitchen
-49,Male,Suburban,63619,Food,5,168,1950,Books
-21,Female,Suburban,62821,Sports,9,162,4298,Health & Beauty
-28,Male,Rural,145736,Sports,1,47,3039,Apparel
-34,Male,Suburban,33493,Technology,7,23,2003,Books
-55,Male,Rural,37069,Fashion,9,145,778,Home & Kitchen
-41,Male,Rural,132443,Technology,8,100,1088,Apparel
-22,Male,Suburban,27531,Technology,4,63,2575,Apparel
-51,Male,Suburban,57051,Travel,9,139,1707,Books
-23,Female,Urban,27736,Travel,3,110,2969,Apparel
-39,Female,Rural,27710,Technology,5,98,1602,Health & Beauty
-28,Male,Urban,87155,Technology,7,65,1889,Health & Beauty
-33,Male,Suburban,33975,Technology,2,103,1525,Books
-50,Female,Urban,82424,Food,9,102,2540,Home & Kitchen
-26,Male,Rural,65603,Travel,0,93,2142,Books
-23,Male,Urban,43252,Technology,3,94,1378,Health & Beauty
-33,Male,Rural,100797,Sports,3,198,2694,Electronics
-46,Female,Suburban,21431,Sports,0,31,4789,Electronics
-20,Male,Suburban,94603,Food,8,44,2536,Apparel
-37,Female,Rural,57481,Food,2,25,3903,Apparel
-53,Male,Suburban,112573,Fashion,4,59,2305,Electronics
-36,Female,Suburban,29557,Fashion,5,131,1127,Health & Beauty
-43,Female,Suburban,94971,Fashion,7,137,3639,Apparel
-20,Male,Suburban,123302,Food,5,122,3583,Books
-36,Female,Rural,20162,Food,2,180,2341,Books
-37,Male,Urban,54742,Food,5,26,2865,Health & Beauty
-49,Female,Urban,39675,Sports,0,89,1273,Apparel
-24,Male,Suburban,93997,Food,3,195,3330,Books
-58,Male,Urban,37015,Sports,5,139,3450,Apparel
-50,Female,Urban,70057,Fashion,6,141,503,Apparel
-57,Male,Suburban,52591,Fashion,9,94,2825,Books
-56,Male,Suburban,113583,Fashion,2,176,3482,Electronics
-35,Female,Urban,146133,Technology,8,103,4263,Books
-57,Male,Rural,120318,Technology,6,143,187,Health & Beauty
-18,Male,Suburban,29833,Travel,0,90,1258,Home & Kitchen
-28,Female,Rural,27896,Travel,1,78,4373,Books
-45,Female,Urban,52972,Travel,0,78,2957,Apparel
-42,Male,Suburban,69733,Technology,8,157,1481,Apparel
-40,Male,Rural,140363,Technology,8,25,4781,Books
-48,Female,Suburban,61800,Travel,6,60,2164,Home & Kitchen
-47,Female,Urban,116044,Travel,9,114,2474,Books
-59,Male,Rural,25347,Food,2,174,417,Home & Kitchen
-52,Female,Urban,79063,Travel,4,179,1602,Home & Kitchen
-24,Male,Urban,115850,Food,3,194,2142,Health & Beauty
-33,Male,Suburban,22643,Sports,6,75,4698,Apparel
-43,Male,Rural,60785,Technology,8,18,2122,Apparel
-19,Male,Urban,38681,Travel,1,116,218,Home & Kitchen
-18,Male,Urban,70026,Technology,7,109,809,Apparel
-29,Female,Rural,123864,Technology,8,95,3657,Electronics
-22,Female,Urban,35892,Technology,9,73,4240,Home & Kitchen
-54,Female,Urban,67299,Sports,9,31,4509,Apparel
-49,Female,Rural,37073,Fashion,8,171,3350,Electronics
-26,Male,Rural,122304,Travel,9,192,517,Health & Beauty
-58,Male,Rural,50682,Fashion,6,166,2703,Apparel
-52,Male,Rural,117798,Fashion,8,175,3954,Electronics
-36,Male,Suburban,146021,Fashion,8,119,1201,Books
-33,Female,Rural,116894,Technology,2,106,4521,Books
-20,Male,Suburban,144302,Food,3,27,3528,Electronics
-37,Male,Suburban,34289,Technology,1,80,2361,Home & Kitchen
-41,Female,Suburban,135359,Technology,9,136,4269,Home & Kitchen
-50,Female,Urban,27927,Fashion,2,106,3734,Apparel
-41,Female,Suburban,68330,Technology,4,10,608,Books
-28,Female,Suburban,86707,Fashion,4,141,2479,Home & Kitchen
-25,Male,Urban,140279,Food,5,13,3264,Home & Kitchen
-53,Male,Urban,97454,Travel,6,134,787,Books
-55,Female,Urban,127439,Fashion,6,91,4852,Health & Beauty
-57,Male,Rural,124646,Food,0,36,1392,Home & Kitchen
-37,Male,Urban,85428,Travel,1,180,4005,Electronics
-52,Male,Urban,70601,Sports,8,68,3175,Apparel
-42,Female,Suburban,97465,Fashion,9,41,3309,Home & Kitchen
-52,Male,Urban,22539,Fashion,1,170,424,Home & Kitchen
-42,Female,Rural,122263,Sports,5,37,2093,Health & Beauty
-46,Male,Urban,131487,Sports,0,115,4076,Electronics
-35,Male,Rural,42669,Fashion,2,114,4912,Apparel
-63,Male,Urban,90968,Sports,1,192,2870,Home & Kitchen
-35,Female,Urban,40644,Technology,2,197,4472,Apparel
-19,Male,Urban,38745,Travel,4,79,2683,Books
-52,Female,Urban,140852,Travel,9,71,3657,Home & Kitchen
-33,Female,Rural,148081,Travel,5,43,3687,Home & Kitchen
-58,Female,Rural,48228,Technology,8,96,251,Books
-53,Male,Suburban,138358,Sports,9,123,1054,Health & Beauty
-50,Male,Rural,54521,Food,3,115,4454,Home & Kitchen
-21,Male,Urban,142788,Sports,6,65,2471,Apparel
-50,Male,Suburban,117239,Fashion,5,122,1291,Electronics
-31,Female,Suburban,46928,Travel,1,22,787,Apparel
-38,Female,Suburban,38322,Sports,9,193,409,Health & Beauty
-37,Female,Urban,77714,Food,7,27,1602,Electronics
-25,Male,Rural,107896,Fashion,6,191,3227,Apparel
-24,Female,Urban,82292,Technology,6,122,4668,Apparel
-20,Male,Suburban,49055,Technology,7,180,3467,Books
-34,Female,Urban,62891,Food,0,48,3495,Health & Beauty
-50,Male,Urban,101912,Fashion,0,198,913,Books
-29,Male,Rural,26588,Travel,7,179,945,Electronics
-39,Female,Rural,110536,Sports,3,88,1264,Books
-39,Female,Suburban,26304,Fashion,4,155,4862,Health & Beauty
-63,Female,Urban,27345,Technology,7,160,1867,Home & Kitchen
-47,Female,Urban,49300,Food,4,191,454,Home & Kitchen
-55,Male,Rural,44259,Food,9,39,1972,Electronics
-55,Female,Urban,111006,Sports,3,107,2124,Home & Kitchen
-62,Female,Urban,108553,Food,5,67,2917,Books
-25,Female,Urban,35352,Food,4,76,3932,Electronics
-44,Male,Rural,149350,Fashion,6,80,4375,Health & Beauty
-44,Male,Suburban,53365,Travel,9,155,165,Electronics
-51,Female,Suburban,39446,Sports,6,115,4366,Electronics
-38,Male,Urban,22336,Fashion,3,16,4190,Apparel
-47,Female,Suburban,82032,Travel,4,49,2621,Apparel
-50,Male,Rural,95415,Fashion,2,79,2681,Electronics
-45,Male,Rural,117852,Fashion,3,77,1490,Home & Kitchen
-64,Male,Suburban,118876,Food,3,58,1230,Apparel
-50,Male,Suburban,27521,Travel,2,61,2586,Health & Beauty
-22,Female,Urban,91707,Sports,9,123,934,Books
-36,Female,Suburban,43481,Sports,4,116,326,Apparel
-21,Female,Urban,38474,Travel,4,38,3615,Electronics
-52,Male,Urban,66760,Food,6,158,4637,Home & Kitchen
-34,Female,Rural,75718,Technology,3,87,2543,Books
-61,Female,Rural,64629,Fashion,3,18,827,Apparel
-45,Female,Rural,65232,Food,8,184,3786,Home & Kitchen
-47,Male,Rural,106544,Travel,5,85,3722,Home & Kitchen
-46,Male,Suburban,87169,Fashion,3,51,1136,Home & Kitchen
-63,Male,Rural,147941,Sports,1,188,1932,Electronics
-23,Female,Suburban,70669,Technology,5,193,2840,Health & Beauty
-52,Female,Rural,98021,Sports,1,188,592,Home & Kitchen
-58,Female,Suburban,129153,Travel,4,137,1648,Books
-54,Male,Urban,89184,Fashion,5,29,1243,Apparel
-41,Male,Suburban,67945,Travel,3,164,4057,Books
-46,Female,Suburban,33140,Fashion,2,175,3507,Electronics
-63,Male,Rural,146468,Food,6,81,739,Electronics
-48,Male,Suburban,103457,Technology,1,74,272,Books
-52,Male,Urban,34357,Food,5,191,4454,Health & Beauty
-50,Male,Urban,131672,Food,3,122,4059,Electronics
-38,Female,Rural,88673,Travel,5,33,616,Electronics
-49,Male,Urban,141673,Technology,3,137,622,Books
-40,Male,Suburban,85633,Fashion,3,184,2017,Electronics
-50,Male,Urban,96943,Fashion,3,92,2986,Health & Beauty
-20,Male,Rural,116111,Sports,8,72,2264,Health & Beauty
-35,Female,Suburban,98258,Fashion,6,194,2029,Health & Beauty
-42,Female,Rural,32924,Travel,2,192,4045,Apparel
-59,Male,Suburban,89286,Food,2,69,2309,Health & Beauty
-48,Male,Urban,113269,Food,5,108,3883,Health & Beauty
-20,Male,Rural,147563,Food,5,71,2690,Apparel
-57,Male,Rural,94071,Technology,3,39,4176,Home & Kitchen
-63,Male,Suburban,77326,Fashion,8,31,1193,Electronics
-41,Male,Rural,110023,Travel,3,135,3980,Health & Beauty
-49,Female,Suburban,140101,Technology,8,166,2594,Electronics
-64,Male,Suburban,50651,Sports,3,178,2679,Books
-39,Female,Suburban,90202,Travel,1,51,2588,Electronics
-40,Female,Suburban,68777,Travel,1,107,2885,Apparel
-19,Male,Urban,36994,Travel,4,40,2858,Electronics
-44,Female,Suburban,87263,Food,3,167,1674,Electronics
-59,Female,Rural,79634,Travel,6,121,2473,Electronics
-19,Female,Urban,120158,Fashion,4,155,4090,Home & Kitchen
-43,Female,Rural,30800,Travel,5,131,4945,Home & Kitchen
-34,Female,Urban,57823,Food,9,26,1193,Books
-57,Female,Suburban,128575,Travel,3,47,1289,Apparel
-50,Male,Urban,83878,Sports,1,151,2789,Electronics
-26,Female,Urban,38708,Sports,9,119,4195,Electronics
-60,Female,Rural,32819,Food,8,193,1975,Electronics
-56,Female,Rural,94905,Fashion,9,31,3506,Electronics
-46,Male,Suburban,83870,Fashion,6,65,1887,Home & Kitchen
-59,Female,Urban,29283,Technology,3,128,4032,Books
-43,Male,Urban,50573,Food,2,156,1707,Health & Beauty
-52,Female,Urban,98707,Travel,9,66,3848,Apparel
-42,Male,Suburban,50933,Food,2,181,148,Electronics
-41,Male,Suburban,25774,Technology,8,44,3961,Books
-30,Female,Suburban,92055,Food,4,123,2280,Health & Beauty
-24,Female,Suburban,30983,Food,2,134,3146,Books
-53,Male,Suburban,116468,Technology,4,138,2933,Home & Kitchen
-62,Female,Rural,116334,Fashion,1,61,1497,Health & Beauty
-37,Male,Urban,38133,Travel,3,94,3926,Books
-18,Male,Urban,145555,Technology,9,174,4674,Home & Kitchen
-25,Male,Urban,34939,Sports,1,74,931,Books
-63,Male,Urban,20781,Fashion,1,188,2797,Books
-33,Male,Urban,134586,Sports,7,138,4877,Health & Beauty
-31,Female,Urban,76700,Fashion,0,30,2835,Home & Kitchen
-29,Male,Urban,47624,Travel,6,190,181,Electronics
-40,Male,Urban,26823,Travel,4,25,186,Apparel
-32,Female,Rural,38489,Food,7,132,2163,Health & Beauty
-45,Male,Urban,138555,Sports,0,70,921,Home & Kitchen
-51,Female,Rural,59961,Fashion,6,63,262,Books
-19,Female,Suburban,139664,Travel,4,177,3839,Home & Kitchen
-49,Female,Urban,49118,Technology,3,35,2497,Apparel
-40,Male,Suburban,120417,Travel,6,89,2032,Apparel
-39,Male,Suburban,101816,Technology,9,74,2828,Electronics
-42,Male,Suburban,42263,Fashion,1,109,3635,Electronics
-39,Female,Rural,33565,Travel,0,83,3546,Apparel
-39,Male,Suburban,40354,Travel,0,180,2890,Health & Beauty
-59,Female,Suburban,62951,Fashion,0,26,2807,Health & Beauty
-23,Male,Suburban,111179,Travel,4,130,4033,Books
-32,Female,Urban,43648,Technology,9,196,3485,Electronics
-60,Male,Urban,70729,Travel,6,32,1022,Books
-54,Male,Rural,61971,Sports,1,144,2275,Electronics
-50,Male,Rural,38658,Food,9,181,1682,Apparel
-25,Female,Urban,41253,Technology,7,190,664,Health & Beauty
-61,Female,Rural,84166,Sports,3,80,3358,Health & Beauty
-61,Male,Urban,68563,Fashion,2,117,2697,Apparel
-22,Male,Suburban,46390,Technology,9,88,2600,Books
-56,Female,Suburban,108664,Food,7,171,4666,Books
-21,Female,Rural,71578,Food,1,55,1087,Home & Kitchen
-23,Female,Urban,99025,Fashion,2,87,3736,Electronics
-62,Male,Urban,123850,Fashion,2,25,323,Books
-49,Female,Rural,52658,Technology,9,80,450,Apparel
-47,Male,Urban,26852,Travel,0,105,2028,Books
-64,Female,Suburban,147282,Fashion,5,156,448,Health & Beauty
-52,Male,Rural,114986,Travel,1,11,4377,Electronics
-57,Female,Rural,22551,Sports,0,19,4832,Home & Kitchen
-33,Female,Urban,91947,Food,1,187,1117,Electronics
-30,Female,Rural,81001,Travel,5,134,2326,Health & Beauty
-59,Female,Urban,69159,Food,3,90,4967,Health & Beauty
-47,Female,Urban,142775,Travel,5,149,4224,Health & Beauty
-36,Male,Urban,71707,Sports,8,79,2519,Health & Beauty
-34,Female,Urban,53243,Fashion,9,159,1993,Apparel
-36,Female,Urban,41800,Sports,9,41,3140,Home & Kitchen
-45,Female,Rural,95939,Fashion,7,114,2168,Health & Beauty
-43,Male,Suburban,77828,Fashion,0,93,1225,Health & Beauty
-54,Female,Suburban,27239,Food,7,138,3217,Books
-43,Male,Rural,26710,Sports,8,191,4261,Home & Kitchen
-40,Female,Rural,41384,Travel,5,67,4142,Electronics
-26,Female,Suburban,41038,Sports,9,155,4533,Home & Kitchen
-29,Male,Suburban,60846,Food,4,143,2270,Home & Kitchen
-18,Female,Suburban,107983,Fashion,5,54,546,Home & Kitchen
-18,Male,Suburban,87821,Food,5,106,2758,Health & Beauty
-64,Male,Suburban,57991,Technology,8,32,3462,Health & Beauty
-51,Female,Urban,99057,Technology,3,32,2818,Apparel
-49,Male,Rural,133193,Travel,1,163,3583,Electronics
-42,Female,Urban,26971,Food,8,144,3044,Books
-57,Female,Suburban,49139,Travel,1,88,4476,Home & Kitchen
-62,Male,Suburban,105445,Travel,9,53,695,Electronics
-18,Male,Suburban,97067,Technology,8,36,2086,Electronics
-33,Male,Urban,100257,Travel,1,35,2850,Apparel
-56,Male,Urban,104742,Technology,7,106,1174,Books
-22,Female,Suburban,57711,Fashion,8,45,4069,Home & Kitchen
-39,Female,Urban,26530,Food,9,118,4405,Books
-46,Male,Urban,31116,Travel,8,64,4321,Apparel
-20,Female,Suburban,85794,Technology,9,194,4687,Health & Beauty
-29,Female,Urban,20282,Sports,8,78,3680,Electronics
-43,Female,Rural,99473,Travel,1,70,3107,Home & Kitchen
-33,Female,Rural,21898,Fashion,3,139,1069,Health & Beauty
-54,Male,Rural,24135,Fashion,6,64,680,Apparel
-39,Male,Rural,26629,Sports,1,131,2924,Books
-46,Female,Suburban,129472,Technology,0,106,4101,Electronics
-31,Male,Suburban,145147,Travel,2,89,1311,Home & Kitchen
-45,Male,Suburban,105120,Technology,3,96,329,Health & Beauty
-22,Male,Rural,139798,Fashion,7,47,4384,Health & Beauty
-64,Female,Rural,109087,Technology,5,128,3285,Electronics
-47,Female,Urban,85031,Fashion,1,87,601,Books
-63,Female,Urban,53380,Technology,8,166,2232,Apparel
-22,Male,Rural,149951,Sports,1,163,148,Books
-29,Female,Rural,132507,Food,4,44,3666,Books
-33,Female,Rural,37071,Sports,3,88,3155,Books
-43,Male,Rural,40074,Sports,6,76,788,Electronics
-43,Female,Urban,110724,Food,7,96,486,Electronics
-38,Female,Rural,87843,Food,4,166,1069,Apparel
-56,Male,Urban,59901,Travel,9,43,3560,Books
-53,Male,Rural,31205,Travel,4,106,1105,Electronics
-50,Male,Rural,75661,Sports,1,178,3152,Apparel
-47,Female,Rural,144661,Sports,7,178,3517,Apparel
-54,Female,Urban,25906,Fashion,1,160,2402,Books
-40,Female,Urban,22591,Fashion,9,80,2383,Home & Kitchen
-27,Male,Suburban,145576,Travel,5,12,1707,Books
-22,Male,Rural,82987,Travel,7,67,4466,Home & Kitchen
-53,Female,Suburban,83370,Fashion,5,41,222,Apparel
-51,Female,Suburban,100685,Fashion,3,40,1380,Electronics
-48,Male,Urban,130454,Technology,3,91,3827,Health & Beauty
-27,Male,Urban,125487,Technology,5,52,358,Apparel
-36,Male,Suburban,74400,Fashion,3,144,1047,Electronics
-49,Male,Rural,45150,Technology,7,114,624,Apparel
-18,Female,Urban,51852,Food,8,10,987,Books
-22,Male,Rural,62870,Travel,0,70,307,Home & Kitchen
-62,Female,Rural,139796,Travel,3,23,3482,Apparel
-21,Female,Suburban,72756,Fashion,3,189,2894,Electronics
-33,Female,Suburban,135357,Sports,1,15,248,Books
-41,Male,Suburban,139052,Fashion,5,112,537,Health & Beauty
-33,Male,Suburban,76481,Technology,2,19,2302,Books
-19,Male,Urban,21283,Sports,6,80,3849,Home & Kitchen
-45,Male,Urban,53691,Technology,4,99,3261,Books
-49,Female,Suburban,21125,Food,3,167,4001,Health & Beauty
-44,Male,Urban,87065,Technology,4,158,4553,Electronics
-37,Male,Suburban,148734,Food,7,135,3345,Apparel
-41,Female,Rural,46170,Food,2,197,4651,Home & Kitchen
-29,Male,Rural,28438,Technology,6,106,2923,Health & Beauty
-52,Female,Rural,40095,Technology,5,83,4824,Home & Kitchen
-50,Female,Suburban,36154,Food,0,124,3370,Books
-50,Female,Rural,28004,Sports,6,179,585,Home & Kitchen
-60,Female,Urban,29752,Food,6,60,299,Health & Beauty
-54,Female,Rural,75426,Travel,0,65,4566,Apparel
-29,Female,Rural,128896,Food,8,50,2082,Apparel
-20,Female,Rural,46819,Sports,5,41,1571,Home & Kitchen
-18,Female,Urban,122168,Travel,1,24,4443,Electronics
-50,Male,Suburban,112051,Fashion,4,71,4983,Home & Kitchen
-57,Male,Urban,147905,Fashion,3,164,2411,Books
-27,Male,Suburban,44217,Sports,6,37,3473,Apparel
-60,Male,Suburban,145949,Food,7,73,2178,Apparel
-61,Female,Rural,108708,Technology,0,196,1621,Apparel
-46,Male,Suburban,52994,Sports,4,195,704,Electronics
-30,Female,Urban,35036,Travel,2,139,3948,Electronics
-29,Male,Urban,97275,Travel,0,136,3442,Health & Beauty
-48,Male,Suburban,117756,Fashion,2,45,1517,Home & Kitchen
-63,Male,Rural,69416,Travel,5,123,4697,Home & Kitchen
-19,Female,Rural,29587,Sports,6,22,3975,Books
-52,Male,Urban,130053,Travel,7,24,3033,Apparel
-40,Female,Rural,115665,Sports,3,98,648,Electronics
-34,Female,Suburban,20645,Technology,2,197,938,Books
-43,Male,Suburban,50930,Fashion,4,31,3915,Books
-25,Male,Urban,101835,Travel,8,83,947,Electronics
-46,Male,Suburban,142232,Sports,5,34,4809,Home & Kitchen
-43,Female,Urban,50090,Food,8,110,4607,Apparel
-27,Male,Suburban,107489,Fashion,5,185,4873,Home & Kitchen
-43,Female,Urban,72142,Technology,1,180,4354,Books
-51,Female,Rural,131979,Sports,4,126,4568,Apparel
-58,Male,Suburban,46475,Technology,8,175,2372,Health & Beauty
-24,Male,Suburban,38888,Technology,7,50,3420,Books
-21,Female,Urban,63732,Travel,6,182,2658,Home & Kitchen
-62,Female,Urban,101623,Travel,0,97,4798,Home & Kitchen
-28,Female,Suburban,66305,Sports,3,177,4411,Home & Kitchen
-46,Male,Urban,66037,Food,6,119,2096,Electronics
-53,Female,Suburban,29346,Sports,6,129,3773,Books
-42,Male,Rural,20587,Food,5,106,1664,Apparel
-38,Female,Urban,32763,Technology,7,154,4118,Home & Kitchen
-53,Female,Suburban,79165,Fashion,5,66,1940,Home & Kitchen
-27,Male,Rural,127481,Sports,9,139,3391,Electronics
-54,Female,Rural,89615,Sports,2,105,2987,Apparel
-26,Male,Suburban,56116,Food,3,130,826,Books
-41,Male,Urban,140987,Technology,2,71,1344,Health & Beauty
-52,Female,Suburban,105751,Technology,0,146,3560,Electronics
-52,Male,Rural,111353,Food,9,77,3818,Books
-53,Male,Suburban,110301,Technology,4,90,1165,Health & Beauty
-35,Female,Urban,115648,Travel,0,26,4871,Home & Kitchen
-56,Male,Rural,45556,Fashion,0,126,382,Home & Kitchen
-49,Male,Suburban,79042,Sports,1,59,1181,Apparel
-41,Male,Urban,38099,Fashion,3,121,3985,Health & Beauty
-40,Female,Rural,129089,Sports,5,103,2981,Home & Kitchen
-49,Male,Urban,65096,Travel,7,177,2684,Home & Kitchen
-54,Female,Rural,91986,Technology,2,195,3070,Apparel
-29,Female,Suburban,33230,Food,0,94,1252,Books
-30,Male,Urban,49009,Travel,2,158,3597,Home & Kitchen
-40,Male,Rural,90969,Fashion,2,155,1047,Electronics
-42,Male,Urban,53866,Food,4,192,4860,Electronics
-52,Female,Urban,125400,Technology,3,166,1817,Books
-58,Male,Suburban,104246,Travel,3,161,166,Health & Beauty
-47,Male,Urban,96975,Food,8,83,736,Apparel
-34,Male,Rural,61855,Travel,6,118,413,Electronics
-37,Male,Rural,101557,Travel,3,154,3497,Electronics
-42,Male,Rural,26416,Technology,2,27,664,Books
-39,Female,Rural,92516,Sports,5,51,1701,Health & Beauty
-30,Female,Suburban,75915,Food,2,110,925,Health & Beauty
-36,Male,Urban,38058,Technology,5,54,3770,Books
-53,Male,Suburban,96637,Travel,8,91,1125,Electronics
-29,Male,Urban,60718,Technology,5,26,2351,Apparel
-58,Male,Urban,52602,Sports,3,82,4857,Electronics
-36,Female,Urban,94658,Food,4,23,904,Health & Beauty
-29,Male,Suburban,98112,Sports,5,186,2551,Electronics
-26,Female,Urban,78067,Fashion,2,166,4731,Apparel
-24,Female,Suburban,47516,Food,7,141,1491,Home & Kitchen
-45,Male,Rural,149295,Sports,3,91,1335,Electronics
-31,Female,Rural,107969,Travel,7,157,4132,Books
-48,Female,Urban,21089,Food,9,129,3380,Home & Kitchen
-36,Female,Suburban,57346,Food,9,129,4823,Books
-64,Female,Rural,94663,Technology,2,56,4944,Books
-33,Male,Suburban,30487,Travel,9,116,3649,Books
-22,Male,Suburban,20155,Fashion,6,117,4300,Electronics
-52,Female,Urban,143950,Sports,8,18,4241,Health & Beauty
-29,Male,Rural,87494,Technology,3,88,1454,Home & Kitchen
-42,Male,Urban,96229,Sports,7,164,1936,Apparel
-38,Male,Urban,124648,Fashion,2,24,2992,Health & Beauty
-53,Male,Rural,58547,Fashion,6,28,2596,Electronics
-40,Male,Rural,48795,Food,2,99,2683,Books
-33,Female,Suburban,75296,Fashion,6,189,2658,Apparel
-56,Male,Rural,41447,Sports,9,35,3718,Home & Kitchen
-62,Male,Suburban,56598,Travel,9,163,1659,Health & Beauty
-59,Male,Suburban,61814,Travel,5,163,1607,Health & Beauty
-56,Male,Suburban,110751,Food,1,183,4171,Apparel
-31,Female,Rural,145118,Sports,2,101,2163,Electronics
-48,Female,Urban,95330,Sports,5,186,3742,Home & Kitchen
-22,Female,Suburban,141347,Fashion,3,91,2100,Apparel
-52,Female,Urban,118745,Sports,5,190,1394,Books
-40,Male,Urban,107960,Technology,0,140,4165,Home & Kitchen
-46,Female,Rural,83278,Fashion,9,51,2852,Health & Beauty
-60,Male,Urban,75077,Technology,0,28,1853,Apparel
-28,Male,Urban,132782,Food,2,26,4310,Health & Beauty
-35,Male,Rural,142046,Travel,7,170,1703,Health & Beauty
-64,Male,Suburban,122932,Food,7,85,1422,Health & Beauty
-29,Male,Urban,91906,Travel,3,186,2541,Electronics
-26,Female,Rural,29528,Food,5,193,1198,Health & Beauty
-27,Female,Urban,113812,Sports,7,72,1605,Books
-61,Female,Urban,70100,Technology,6,140,1226,Books
-34,Female,Suburban,129869,Travel,6,116,396,Home & Kitchen
-55,Male,Urban,28179,Fashion,3,58,3149,Health & Beauty
-24,Female,Rural,68781,Technology,8,64,2325,Health & Beauty
-63,Male,Urban,75267,Fashion,9,163,4454,Apparel
-30,Female,Suburban,102379,Technology,5,108,3887,Electronics
-57,Male,Suburban,43952,Technology,2,61,2196,Home & Kitchen
-59,Male,Rural,73798,Food,4,109,3709,Health & Beauty
-26,Female,Suburban,118696,Travel,4,126,2308,Apparel
-44,Male,Urban,130434,Travel,4,127,275,Electronics
-19,Male,Suburban,70939,Technology,7,16,2602,Home & Kitchen
-22,Female,Rural,49516,Sports,8,55,4099,Home & Kitchen
-46,Male,Suburban,76526,Sports,8,55,1767,Health & Beauty
-54,Female,Suburban,30449,Fashion,5,109,4471,Home & Kitchen
-55,Female,Suburban,70290,Fashion,5,153,2645,Apparel
-36,Female,Rural,146688,Food,8,161,775,Home & Kitchen
-25,Male,Suburban,106661,Technology,3,198,1923,Books
-62,Male,Suburban,92954,Fashion,5,63,1456,Apparel
-18,Male,Urban,42746,Fashion,3,71,3172,Electronics
-39,Female,Rural,87990,Technology,0,138,3359,Electronics
-34,Male,Suburban,78810,Food,6,58,646,Health & Beauty
-24,Female,Rural,138362,Fashion,9,34,2183,Health & Beauty
-42,Female,Suburban,103297,Food,5,19,2140,Books
-62,Male,Suburban,35223,Travel,8,127,4634,Electronics
-21,Female,Suburban,92237,Food,6,153,1852,Electronics
-53,Male,Urban,22597,Sports,6,195,1715,Electronics
-23,Male,Urban,85677,Sports,1,166,1949,Electronics
-48,Male,Urban,22659,Food,8,101,2742,Home & Kitchen
-36,Male,Rural,106516,Sports,9,143,1700,Apparel
-61,Male,Rural,94567,Travel,8,153,3496,Apparel
-56,Female,Urban,35037,Technology,5,157,4502,Books
-44,Female,Rural,146498,Sports,2,89,3705,Home & Kitchen
-27,Female,Suburban,66738,Sports,0,80,3899,Electronics
-43,Male,Suburban,123965,Food,3,87,718,Electronics
-36,Male,Suburban,91678,Travel,2,52,1232,Health & Beauty
-56,Male,Urban,32109,Technology,0,163,2215,Health & Beauty
-20,Female,Rural,42010,Food,2,99,2439,Books
-62,Male,Urban,28787,Food,3,87,2839,Electronics
-30,Female,Rural,128400,Travel,7,170,4376,Books
-45,Female,Suburban,28472,Technology,8,35,1587,Home & Kitchen
-37,Male,Urban,135111,Travel,2,130,1657,Apparel
-45,Male,Rural,43383,Technology,5,54,2213,Electronics
-25,Female,Rural,81709,Travel,9,72,1144,Home & Kitchen
-58,Male,Suburban,89785,Food,4,189,2531,Electronics
-56,Female,Urban,133253,Food,5,77,1682,Health & Beauty
-18,Male,Urban,54518,Fashion,3,163,1408,Books
-20,Male,Urban,73909,Sports,9,11,701,Health & Beauty
-30,Female,Suburban,38351,Travel,5,151,1720,Apparel
-45,Male,Urban,89624,Fashion,6,117,4980,Health & Beauty
-42,Female,Suburban,73330,Sports,8,39,4866,Electronics
-50,Male,Suburban,142477,Travel,9,58,200,Health & Beauty
-55,Female,Suburban,35282,Technology,6,149,4371,Electronics
-23,Female,Rural,104866,Sports,5,53,337,Apparel
-61,Male,Urban,127945,Food,0,170,4125,Health & Beauty
-62,Female,Urban,41778,Fashion,1,22,3018,Books
-49,Male,Suburban,44264,Sports,0,87,2642,Books
-62,Male,Suburban,79675,Sports,8,135,2103,Books
-64,Male,Urban,25075,Food,9,107,1637,Health & Beauty
-38,Female,Suburban,95948,Travel,9,35,854,Health & Beauty
-33,Female,Urban,68454,Technology,8,158,3468,Health & Beauty
-38,Male,Rural,48365,Food,6,165,2358,Electronics
-28,Male,Suburban,92766,Technology,1,57,3765,Apparel
-54,Female,Urban,68200,Travel,5,177,4335,Books
-53,Male,Suburban,31002,Sports,3,75,640,Electronics
-52,Male,Urban,33947,Technology,0,96,369,Books
-36,Female,Urban,99222,Fashion,0,88,3560,Electronics
-37,Male,Suburban,114840,Fashion,4,32,3508,Health & Beauty
-35,Female,Rural,136219,Food,1,90,605,Books
-64,Male,Urban,98610,Travel,3,57,1229,Health & Beauty
-58,Female,Urban,72142,Food,0,133,2179,Books
-31,Male,Urban,76307,Food,3,139,3245,Home & Kitchen
-32,Male,Rural,24493,Food,5,93,3342,Electronics
-48,Female,Rural,144023,Fashion,9,29,461,Home & Kitchen
-18,Male,Suburban,70085,Fashion,3,196,3820,Electronics
-20,Female,Rural,54228,Food,0,55,1556,Apparel
-33,Male,Suburban,99676,Fashion,6,140,4167,Books
-40,Female,Suburban,71875,Travel,1,192,4295,Apparel
-28,Female,Rural,51655,Food,8,21,1781,Apparel
-29,Female,Suburban,63472,Fashion,2,49,1152,Electronics
-27,Female,Rural,69437,Technology,7,75,2609,Home & Kitchen
-49,Male,Suburban,69416,Food,7,109,4827,Health & Beauty
-33,Male,Rural,79711,Food,2,87,781,Electronics
-25,Female,Rural,26816,Travel,3,25,4032,Health & Beauty
-55,Female,Suburban,97175,Sports,1,92,2229,Apparel
-29,Female,Urban,84307,Sports,3,171,4949,Health & Beauty
-41,Male,Suburban,132728,Travel,8,53,4116,Home & Kitchen
-45,Male,Rural,66733,Travel,1,143,3402,Electronics
-25,Male,Urban,148202,Travel,2,109,819,Home & Kitchen
-45,Male,Suburban,115028,Sports,3,31,174,Home & Kitchen
-53,Female,Suburban,136450,Travel,4,27,1393,Electronics
-43,Female,Suburban,31240,Fashion,0,21,2022,Home & Kitchen
-25,Female,Urban,118234,Food,6,189,4257,Books
-45,Male,Rural,112493,Food,9,132,419,Books
-45,Male,Suburban,145149,Technology,6,126,2249,Books
-54,Male,Suburban,118344,Technology,8,60,1552,Health & Beauty
-58,Female,Suburban,91363,Food,3,80,1655,Home & Kitchen
-53,Female,Suburban,52762,Fashion,5,57,4307,Electronics
-44,Male,Suburban,28259,Sports,1,28,3132,Electronics
-34,Female,Rural,70139,Sports,3,15,560,Health & Beauty
-26,Male,Rural,148775,Fashion,1,93,986,Electronics
-50,Male,Suburban,34849,Sports,9,164,3633,Books
-37,Female,Urban,101768,Travel,4,62,4036,Home & Kitchen
-30,Male,Rural,126108,Food,6,116,1215,Electronics
-45,Female,Urban,109709,Food,0,110,1175,Electronics
-46,Male,Rural,74869,Fashion,9,57,3976,Apparel
-30,Female,Suburban,146888,Sports,9,144,4715,Apparel
-63,Female,Rural,83095,Technology,6,196,2024,Apparel
-52,Female,Suburban,137886,Technology,9,78,1026,Home & Kitchen
-23,Male,Rural,90910,Sports,5,20,4752,Books
-35,Male,Suburban,106710,Technology,5,152,2381,Books
-22,Female,Suburban,43567,Fashion,7,140,1155,Books
-64,Female,Suburban,55292,Fashion,7,131,4774,Home & Kitchen
-42,Male,Suburban,94813,Sports,5,78,641,Home & Kitchen
-19,Male,Urban,117136,Technology,2,32,2261,Apparel
-27,Male,Suburban,71631,Fashion,4,190,2351,Electronics
-47,Female,Urban,29885,Fashion,1,46,1152,Health & Beauty
-62,Male,Urban,79659,Travel,4,18,4669,Health & Beauty
-22,Male,Suburban,74306,Travel,8,24,2844,Electronics
-50,Female,Urban,86314,Fashion,9,140,3969,Apparel
-18,Male,Rural,85087,Sports,0,102,4581,Electronics
-35,Male,Suburban,49165,Food,9,26,4257,Electronics
-49,Male,Urban,78929,Food,4,163,4710,Health & Beauty
-64,Female,Suburban,87028,Fashion,5,158,4625,Apparel
-28,Female,Suburban,115998,Fashion,6,81,4775,Home & Kitchen
-38,Female,Suburban,69812,Fashion,8,158,1660,Health & Beauty
-43,Female,Urban,70500,Sports,5,130,3862,Home & Kitchen
-42,Female,Rural,99151,Travel,4,20,1264,Apparel
-39,Female,Rural,78643,Fashion,6,175,2822,Electronics
-44,Female,Urban,64900,Fashion,0,81,2458,Books
-30,Male,Suburban,62946,Technology,4,115,570,Books
-50,Male,Urban,27851,Sports,1,134,1516,Apparel
-51,Female,Urban,36288,Fashion,3,44,1568,Books
-58,Male,Urban,92692,Technology,6,128,908,Home & Kitchen
-52,Male,Suburban,87580,Food,4,23,271,Books
-18,Female,Urban,27368,Fashion,5,23,4226,Apparel
-38,Male,Suburban,105436,Fashion,1,19,4242,Apparel
-23,Male,Urban,116136,Technology,2,149,4325,Home & Kitchen
-45,Male,Rural,66403,Sports,6,47,2499,Books
-34,Male,Urban,111170,Fashion,1,117,1745,Books
-22,Male,Urban,29168,Food,5,128,157,Electronics
-48,Female,Rural,106497,Fashion,4,43,1229,Health & Beauty
-22,Female,Suburban,69879,Food,9,178,1453,Apparel
-55,Female,Suburban,79871,Travel,0,19,867,Electronics
-20,Male,Urban,129632,Travel,9,131,3995,Apparel
-40,Female,Rural,131623,Food,3,154,782,Electronics
-54,Male,Suburban,109388,Sports,1,154,3554,Health & Beauty
-54,Male,Urban,118646,Fashion,3,199,2108,Electronics
-27,Male,Rural,52174,Fashion,0,124,3242,Apparel
-27,Male,Suburban,119751,Travel,1,10,1890,Books
-36,Female,Suburban,112491,Food,7,21,1577,Apparel
-34,Female,Rural,26581,Fashion,5,112,985,Home & Kitchen
-38,Male,Rural,130155,Fashion,1,13,4006,Home & Kitchen
-31,Female,Rural,91853,Sports,5,179,4592,Home & Kitchen
-26,Male,Rural,84046,Technology,9,150,1638,Home & Kitchen
-63,Female,Urban,69678,Travel,8,107,2173,Health & Beauty
-18,Female,Rural,128392,Travel,6,115,412,Books
-62,Male,Suburban,131250,Technology,8,94,910,Books
-30,Female,Suburban,46649,Fashion,4,130,2335,Apparel
-21,Male,Urban,147795,Sports,6,141,2957,Electronics
-18,Female,Suburban,108668,Sports,6,91,2863,Apparel
-57,Male,Suburban,102325,Travel,2,28,2132,Apparel
-49,Male,Rural,34567,Sports,6,139,1607,Apparel
-51,Female,Suburban,100404,Technology,0,21,4645,Apparel
-45,Female,Urban,109906,Fashion,8,90,2670,Books
-48,Male,Rural,128069,Technology,9,83,1994,Electronics
-25,Female,Rural,116019,Food,5,107,2805,Apparel
-56,Female,Urban,81944,Travel,4,15,696,Books
-43,Male,Rural,138428,Sports,6,145,2247,Apparel
-51,Male,Rural,98002,Food,4,134,715,Home & Kitchen
-20,Female,Urban,48803,Sports,9,60,1047,Apparel
-29,Male,Rural,38230,Fashion,4,20,4751,Apparel
-18,Male,Urban,37862,Fashion,9,194,4473,Health & Beauty
-61,Male,Urban,63355,Fashion,6,136,3864,Home & Kitchen
-22,Female,Suburban,51259,Sports,9,149,2113,Electronics
-47,Female,Suburban,119075,Food,6,82,3797,Apparel
-47,Male,Rural,107445,Fashion,2,11,590,Electronics
-34,Female,Rural,50795,Food,2,17,4450,Home & Kitchen
-64,Male,Urban,134604,Sports,9,148,2528,Apparel
-40,Female,Rural,28770,Food,2,133,641,Health & Beauty
-32,Male,Urban,31093,Sports,5,62,1387,Books
-54,Male,Urban,66571,Sports,5,19,1733,Health & Beauty
-38,Female,Rural,20193,Travel,2,121,3026,Health & Beauty
-31,Male,Urban,120311,Sports,2,17,1452,Books
-19,Female,Suburban,37569,Sports,7,45,4476,Books
-28,Female,Rural,137082,Technology,7,115,1398,Books
-56,Male,Suburban,31190,Fashion,6,23,4968,Apparel
-55,Male,Rural,82824,Travel,9,191,4067,Electronics
-51,Female,Urban,62752,Travel,3,95,4523,Electronics
-55,Male,Rural,52327,Travel,3,158,2358,Books
-51,Male,Suburban,62070,Technology,2,59,4747,Health & Beauty
-35,Male,Urban,105925,Sports,4,176,2173,Home & Kitchen
-47,Male,Rural,60197,Fashion,2,29,801,Books
-32,Male,Rural,22261,Food,7,96,2019,Health & Beauty
-44,Female,Rural,138424,Sports,6,144,2560,Health & Beauty
-51,Female,Suburban,113905,Technology,2,146,4362,Apparel
-55,Male,Suburban,46512,Sports,8,138,4364,Apparel
-50,Male,Rural,26716,Sports,4,163,4424,Electronics
-41,Male,Urban,106795,Technology,8,175,466,Electronics
-32,Female,Urban,48933,Travel,6,47,627,Home & Kitchen
-47,Male,Suburban,127225,Travel,6,198,4986,Home & Kitchen
-59,Female,Urban,24378,Fashion,5,53,3818,Home & Kitchen
-34,Female,Suburban,60583,Fashion,1,95,3709,Home & Kitchen
-22,Female,Rural,132082,Travel,8,53,4035,Health & Beauty
-46,Male,Suburban,105371,Food,5,83,4719,Health & Beauty
-21,Female,Suburban,49033,Sports,7,128,2253,Electronics
-27,Male,Rural,44000,Food,0,199,2008,Apparel
-34,Female,Urban,131032,Sports,4,131,3112,Apparel
-27,Male,Suburban,95868,Travel,0,143,4328,Books
-34,Female,Suburban,62604,Fashion,9,154,3122,Health & Beauty
-37,Male,Rural,88336,Fashion,7,60,3583,Home & Kitchen
-41,Female,Urban,115074,Food,7,47,2820,Home & Kitchen
-22,Male,Suburban,115655,Fashion,0,161,1870,Books
-51,Male,Rural,93869,Travel,8,60,4213,Apparel
-23,Male,Suburban,25410,Food,1,19,1877,Home & Kitchen
-19,Male,Rural,103375,Sports,8,129,4312,Apparel
-30,Female,Urban,76044,Fashion,0,158,897,Books
-60,Female,Urban,83315,Technology,9,79,3315,Apparel
-60,Male,Urban,116055,Fashion,8,94,3888,Apparel
-28,Female,Urban,91344,Sports,3,66,3076,Apparel
-64,Male,Suburban,26796,Food,8,135,3837,Home & Kitchen
-40,Male,Suburban,106716,Sports,6,48,1811,Electronics
-33,Female,Urban,74245,Technology,5,42,852,Health & Beauty
-48,Male,Urban,63056,Travel,4,196,2569,Apparel
-28,Male,Urban,37709,Fashion,8,27,4069,Apparel
-33,Female,Suburban,139664,Food,1,193,1492,Apparel
-25,Male,Urban,78557,Travel,1,66,2705,Electronics
-21,Male,Urban,37543,Sports,8,105,777,Books
-57,Male,Urban,57418,Food,2,57,205,Home & Kitchen
-21,Male,Rural,114611,Travel,7,51,3387,Electronics
-42,Female,Urban,123291,Food,8,36,4853,Apparel
-20,Female,Rural,133504,Technology,7,83,2046,Electronics
-49,Female,Rural,123001,Technology,3,119,1195,Electronics
-20,Male,Urban,116038,Fashion,0,189,1882,Electronics
-44,Male,Rural,36724,Fashion,3,179,4641,Books
-46,Female,Urban,23828,Technology,8,41,3357,Health & Beauty
-49,Male,Suburban,136656,Food,1,35,2097,Home & Kitchen
-36,Male,Suburban,37087,Technology,2,34,4969,Books
-38,Male,Suburban,32605,Fashion,9,84,1661,Books
-22,Male,Suburban,51337,Technology,7,32,4106,Health & Beauty
-35,Female,Rural,25482,Technology,5,66,1775,Books
-45,Female,Urban,85333,Food,7,189,1222,Electronics
-59,Female,Urban,112541,Travel,6,135,4081,Electronics
-39,Male,Urban,108296,Fashion,4,96,1401,Apparel
-38,Female,Suburban,70952,Food,8,40,1043,Books
-23,Female,Suburban,25463,Technology,3,73,4650,Apparel
-18,Male,Urban,132164,Technology,5,42,1045,Home & Kitchen
-22,Male,Suburban,90448,Travel,1,11,700,Electronics
-58,Female,Urban,24648,Fashion,1,27,2800,Home & Kitchen
-29,Female,Urban,53623,Fashion,1,184,4920,Health & Beauty
-43,Female,Urban,79156,Sports,9,170,1517,Electronics
-63,Female,Urban,55634,Fashion,6,93,1624,Home & Kitchen
-51,Male,Urban,64602,Travel,1,44,3866,Health & Beauty
-31,Female,Urban,134598,Sports,1,188,350,Home & Kitchen
-43,Female,Urban,69334,Sports,8,123,1644,Health & Beauty
-62,Male,Suburban,88648,Technology,6,155,178,Health & Beauty
-44,Female,Urban,42054,Technology,2,119,3223,Electronics
-26,Male,Urban,90028,Fashion,2,97,997,Apparel
-43,Male,Suburban,42207,Sports,6,81,4976,Health & Beauty
-64,Male,Suburban,100650,Technology,4,134,325,Health & Beauty
-39,Female,Suburban,119821,Travel,9,39,1309,Electronics
-64,Female,Urban,101554,Technology,5,181,4998,Apparel
-47,Male,Rural,41386,Technology,7,62,4937,Books
-60,Female,Rural,103276,Sports,8,147,2278,Books
-34,Female,Suburban,79518,Sports,0,96,2779,Apparel
-43,Male,Rural,72781,Food,2,189,2985,Home & Kitchen
-53,Male,Suburban,72780,Travel,6,186,2906,Electronics
-18,Female,Urban,81440,Sports,5,148,803,Apparel
-25,Male,Rural,64199,Fashion,6,195,2644,Books
-52,Female,Urban,81035,Travel,7,173,2470,Health & Beauty
-32,Female,Rural,28210,Travel,5,170,3381,Books
-64,Female,Urban,64363,Sports,2,184,4810,Health & Beauty
-39,Female,Rural,131175,Travel,1,22,428,Electronics
-31,Male,Urban,98279,Sports,6,49,4328,Health & Beauty
-43,Male,Urban,80348,Technology,0,98,220,Apparel
-45,Male,Rural,75284,Food,2,77,1064,Health & Beauty
-40,Male,Urban,127628,Technology,3,51,4324,Home & Kitchen
-31,Female,Urban,129835,Sports,0,156,3775,Apparel
-41,Female,Urban,92124,Sports,4,103,2176,Electronics
-19,Male,Rural,88847,Technology,9,28,432,Apparel
-62,Female,Rural,42432,Fashion,2,195,3468,Home & Kitchen
-43,Female,Urban,146252,Fashion,1,32,1416,Electronics
-31,Female,Urban,84089,Fashion,2,63,1296,Books
-24,Male,Rural,75398,Sports,7,74,3270,Home & Kitchen
-20,Male,Rural,119291,Travel,5,149,1529,Electronics
-64,Male,Urban,23321,Sports,6,33,455,Health & Beauty
-40,Female,Urban,101348,Travel,5,43,4334,Apparel
-63,Male,Urban,57383,Technology,5,62,1626,Electronics
-60,Male,Suburban,133816,Food,2,145,3997,Apparel
-64,Male,Rural,98682,Travel,7,27,128,Health & Beauty
-62,Male,Suburban,143053,Fashion,6,66,1113,Electronics
-35,Male,Rural,99190,Sports,6,121,2802,Books
-55,Male,Rural,72893,Technology,5,14,927,Home & Kitchen
-52,Female,Rural,55820,Fashion,4,163,4546,Electronics
-32,Female,Rural,141262,Technology,9,167,2124,Health & Beauty
-42,Male,Rural,86262,Food,7,191,398,Electronics
-54,Male,Rural,23760,Sports,4,22,1965,Apparel
-45,Female,Rural,42190,Sports,8,92,4116,Electronics
-27,Female,Suburban,87411,Food,8,38,2211,Books
-56,Male,Urban,43377,Sports,0,12,854,Electronics
-34,Male,Urban,66737,Travel,5,99,869,Home & Kitchen
-56,Male,Suburban,89569,Technology,6,113,3835,Electronics
-39,Male,Suburban,58211,Fashion,2,132,1338,Apparel
-43,Female,Suburban,102909,Food,6,195,2313,Electronics
-61,Male,Suburban,23744,Travel,6,85,2006,Books
-42,Male,Rural,145566,Fashion,1,139,1664,Health & Beauty
-34,Male,Urban,44995,Fashion,6,117,1318,Electronics
-30,Male,Rural,36977,Food,0,165,4701,Electronics
-37,Female,Urban,149508,Travel,4,91,1457,Home & Kitchen
-42,Female,Urban,117938,Fashion,8,86,3939,Books
-21,Female,Suburban,54542,Fashion,6,11,1560,Health & Beauty
-27,Male,Rural,30651,Travel,6,136,4085,Apparel
-20,Male,Suburban,119239,Sports,1,144,1516,Electronics
-58,Female,Rural,98931,Fashion,7,35,2953,Health & Beauty
-62,Male,Urban,115344,Technology,2,97,4956,Apparel
-35,Male,Suburban,122112,Travel,7,25,1528,Books
-64,Female,Suburban,36715,Fashion,2,160,4478,Books
-53,Female,Urban,64409,Food,9,177,4574,Health & Beauty
-64,Female,Urban,44306,Technology,6,197,4393,Apparel
-39,Female,Urban,39086,Fashion,1,82,3162,Books
-51,Male,Suburban,34376,Technology,3,41,3171,Health & Beauty
-64,Male,Rural,81350,Technology,5,24,655,Books
-25,Female,Suburban,91425,Sports,8,150,455,Books
-57,Male,Rural,123358,Technology,4,14,1663,Books
-61,Female,Suburban,56636,Sports,8,83,3600,Home & Kitchen
-36,Female,Suburban,106120,Travel,4,61,1140,Apparel
-59,Male,Urban,134889,Sports,9,86,2786,Health & Beauty
-58,Female,Rural,71649,Food,7,178,4574,Health & Beauty
-54,Male,Suburban,54610,Fashion,0,190,4875,Apparel
-23,Male,Suburban,30058,Travel,6,119,2653,Apparel
-43,Male,Urban,144876,Travel,3,187,1879,Apparel
-51,Male,Urban,148265,Food,4,152,175,Apparel
-62,Female,Rural,94637,Sports,5,115,4426,Electronics
-23,Male,Suburban,98033,Fashion,4,136,3419,Health & Beauty
-54,Female,Rural,90194,Sports,0,16,2449,Electronics
-50,Female,Suburban,96917,Technology,8,49,2873,Books
-39,Female,Rural,84200,Sports,1,165,2362,Books
-38,Female,Urban,125848,Travel,8,169,3329,Health & Beauty
-23,Male,Suburban,126022,Fashion,9,108,2216,Books
-23,Male,Rural,66619,Sports,1,152,492,Apparel
-21,Female,Urban,37154,Fashion,8,94,1208,Electronics
-47,Female,Urban,39539,Fashion,5,74,4462,Apparel
-28,Male,Rural,145381,Technology,8,141,710,Books
-47,Female,Suburban,80058,Technology,5,20,2875,Electronics
-48,Male,Suburban,82068,Travel,5,117,4098,Apparel
-41,Female,Urban,97313,Food,1,35,772,Health & Beauty
-26,Male,Suburban,119932,Fashion,7,198,3777,Apparel
-20,Female,Suburban,50373,Food,2,174,130,Books
-48,Female,Suburban,53154,Travel,6,160,1500,Electronics
-57,Male,Urban,26031,Fashion,4,94,4171,Health & Beauty
-54,Female,Rural,113533,Fashion,2,177,716,Electronics
-53,Female,Suburban,91975,Food,0,160,4734,Health & Beauty
-41,Male,Urban,42785,Sports,7,132,2886,Electronics
-48,Female,Urban,98928,Technology,2,153,970,Books
-23,Male,Rural,138696,Sports,1,198,4296,Health & Beauty
-19,Male,Suburban,48669,Food,0,77,3704,Home & Kitchen
-37,Female,Suburban,114475,Technology,3,113,1512,Electronics
-45,Female,Rural,137154,Sports,7,89,2839,Electronics
-28,Female,Rural,22282,Technology,2,168,1040,Apparel
-21,Female,Urban,54624,Fashion,0,62,440,Health & Beauty
-32,Female,Urban,68438,Sports,3,115,3008,Home & Kitchen
-23,Female,Rural,109900,Technology,8,162,4233,Books
-47,Female,Suburban,87534,Technology,0,53,759,Apparel
-55,Male,Urban,51705,Technology,1,149,2133,Home & Kitchen
-19,Female,Urban,58244,Sports,8,99,1660,Health & Beauty
-32,Male,Suburban,94964,Travel,1,110,3557,Home & Kitchen
-28,Female,Urban,57437,Sports,2,106,1756,Electronics
-25,Female,Suburban,97872,Food,6,18,3075,Electronics
-43,Male,Suburban,94878,Sports,2,21,1149,Apparel
-62,Female,Suburban,139006,Technology,8,78,553,Health & Beauty
-61,Female,Rural,125368,Fashion,5,191,1804,Health & Beauty
-22,Male,Rural,92982,Sports,2,191,2884,Home & Kitchen
-23,Female,Rural,70583,Sports,8,37,918,Apparel
-43,Female,Suburban,58392,Technology,0,65,4968,Health & Beauty
-21,Female,Suburban,27461,Fashion,9,108,112,Electronics
-36,Male,Rural,120123,Fashion,2,119,4079,Home & Kitchen
-37,Female,Urban,30516,Food,0,86,1020,Books
-50,Female,Suburban,99285,Sports,1,112,2518,Electronics
-37,Female,Urban,37514,Fashion,7,115,1414,Apparel
-29,Female,Urban,148657,Fashion,6,118,3777,Health & Beauty
-64,Male,Suburban,141251,Travel,1,121,2117,Electronics
-18,Male,Suburban,120962,Travel,1,67,1328,Books
-43,Female,Urban,56268,Fashion,8,87,4892,Books
-31,Female,Urban,110486,Food,5,84,2534,Apparel
-55,Male,Rural,120424,Fashion,4,51,2968,Electronics
-54,Male,Rural,56788,Technology,9,175,2615,Home & Kitchen
-28,Female,Suburban,95749,Sports,5,77,1538,Electronics
-53,Male,Rural,81049,Food,8,190,4264,Books
-30,Female,Rural,82493,Technology,6,42,3643,Apparel
-60,Male,Rural,56027,Food,9,80,3275,Apparel
-20,Male,Rural,113547,Technology,9,65,1881,Home & Kitchen
-50,Male,Urban,62849,Sports,8,114,2363,Apparel
-23,Male,Suburban,120127,Sports,3,110,2069,Apparel
-27,Female,Rural,37858,Travel,1,60,311,Apparel
-22,Male,Urban,104162,Technology,7,83,607,Apparel
-40,Male,Urban,99003,Travel,3,180,431,Apparel
-27,Female,Urban,72395,Technology,8,130,650,Books
-61,Male,Rural,59758,Travel,3,152,1041,Electronics
-19,Male,Rural,74312,Sports,7,175,827,Health & Beauty
+Age,Gender,Location,Income,Interests,Total_Spending,Product_Category_Preference
+56,Male,Suburban,38037,Sports,2546,Books
+46,Female,Rural,103986,Technology,320,Electronics
+32,Female,Suburban,101942,Sports,3766,Apparel
+60,Female,Suburban,71612,Fashion,4377,Apparel
+25,Male,Suburban,49725,Travel,4502,Health & Beauty
+38,Male,Suburban,25926,Travel,2669,Books
+56,Male,Urban,124555,Fashion,1113,Home & Kitchen
+36,Male,Urban,29496,Technology,2151,Apparel
+40,Male,Rural,76447,Travel,4085,Books
+28,Male,Urban,121604,Food,4999,Electronics
+28,Male,Urban,49806,Travel,4410,Health & Beauty
+41,Male,Rural,108199,Food,3119,Electronics
+53,Female,Rural,61321,Fashion,3781,Apparel
+57,Female,Rural,142041,Fashion,1543,Apparel
+41,Male,Urban,122031,Travel,4296,Electronics
+20,Male,Urban,85095,Sports,3110,Apparel
+39,Female,Rural,42656,Food,672,Books
+19,Male,Suburban,75147,Technology,1432,Apparel
+41,Male,Rural,111396,Travel,4853,Health & Beauty
+61,Male,Suburban,69666,Technology,4102,Books
+47,Female,Suburban,102368,Travel,3234,Home & Kitchen
+55,Female,Rural,58787,Sports,4186,Apparel
+19,Female,Rural,133767,Sports,325,Apparel
+38,Female,Rural,82946,Sports,4300,Health & Beauty
+50,Female,Urban,41727,Sports,2097,Health & Beauty
+29,Male,Suburban,128351,Fashion,871,Electronics
+39,Female,Urban,115081,Fashion,4624,Electronics
+61,Male,Urban,142721,Food,533,Electronics
+42,Male,Rural,130058,Technology,3199,Health & Beauty
+44,Female,Urban,88056,Travel,2829,Electronics
+59,Female,Rural,23081,Travel,3507,Electronics
+45,Male,Suburban,54196,Fashion,3240,Home & Kitchen
+33,Male,Rural,56735,Travel,965,Electronics
+32,Male,Urban,124749,Fashion,2893,Apparel
+64,Female,Urban,100102,Food,3011,Health & Beauty
+61,Female,Rural,99578,Technology,2515,Books
+20,Female,Rural,45498,Food,350,Home & Kitchen
+54,Female,Urban,96865,Sports,3857,Health & Beauty
+24,Female,Suburban,51656,Sports,4756,Health & Beauty
+38,Male,Suburban,87695,Sports,1018,Apparel
+26,Female,Rural,57900,Food,1273,Electronics
+56,Male,Suburban,148392,Travel,3303,Apparel
+35,Male,Urban,137235,Technology,532,Electronics
+21,Male,Rural,104899,Sports,935,Electronics
+42,Female,Urban,67701,Sports,2346,Health & Beauty
+31,Female,Urban,128777,Sports,2362,Electronics
+26,Female,Suburban,39033,Technology,997,Home & Kitchen
+43,Male,Rural,143193,Sports,3732,Home & Kitchen
+19,Male,Rural,30805,Technology,4667,Home & Kitchen
+37,Male,Suburban,55851,Sports,3915,Health & Beauty
+45,Male,Urban,46832,Food,346,Apparel
+64,Male,Urban,83437,Food,2529,Books
+24,Male,Urban,135725,Technology,1090,Electronics
+61,Female,Urban,33944,Food,3410,Books
+25,Female,Rural,39873,Technology,1026,Apparel
+64,Female,Rural,60372,Food,3538,Apparel
+52,Female,Suburban,109464,Food,2707,Health & Beauty
+31,Male,Suburban,35379,Technology,1174,Home & Kitchen
+34,Male,Rural,137322,Travel,4122,Home & Kitchen
+53,Female,Rural,56751,Food,3899,Apparel
+57,Male,Urban,120082,Sports,4884,Health & Beauty
+21,Female,Urban,109822,Travel,3251,Health & Beauty
+19,Female,Suburban,25110,Technology,3538,Electronics
+23,Female,Rural,74341,Travel,4673,Home & Kitchen
+59,Male,Suburban,32087,Fashion,3591,Apparel
+21,Female,Rural,43762,Fashion,806,Books
+46,Female,Urban,135812,Food,3164,Home & Kitchen
+35,Female,Suburban,102617,Food,853,Electronics
+43,Male,Suburban,120483,Sports,687,Health & Beauty
+61,Male,Rural,29596,Travel,1434,Apparel
+51,Female,Urban,123555,Fashion,1947,Home & Kitchen
+27,Male,Suburban,127539,Food,4034,Books
+53,Male,Urban,38313,Travel,4026,Electronics
+31,Male,Suburban,133175,Food,3417,Electronics
+48,Male,Urban,86549,Food,4120,Home & Kitchen
+32,Male,Rural,134914,Fashion,3255,Books
+25,Male,Suburban,43705,Fashion,4402,Electronics
+31,Male,Suburban,87364,Food,2298,Apparel
+40,Male,Urban,93445,Technology,264,Electronics
+57,Male,Urban,123892,Food,2098,Books
+38,Male,Suburban,98645,Food,3157,Health & Beauty
+33,Female,Rural,22023,Sports,2184,Health & Beauty
+62,Female,Urban,139654,Sports,4528,Home & Kitchen
+35,Male,Urban,79796,Sports,502,Books
+64,Female,Urban,100073,Technology,513,Electronics
+41,Female,Suburban,112197,Technology,144,Electronics
+43,Male,Suburban,84429,Food,4257,Health & Beauty
+42,Male,Suburban,124195,Sports,2567,Health & Beauty
+62,Male,Suburban,81627,Technology,967,Apparel
+58,Female,Rural,53848,Fashion,118,Health & Beauty
+46,Female,Rural,57804,Food,464,Apparel
+32,Male,Suburban,35379,Travel,3932,Electronics
+62,Male,Rural,79664,Food,679,Apparel
+18,Male,Urban,47766,Travel,645,Apparel
+42,Female,Urban,129126,Sports,4250,Home & Kitchen
+24,Female,Urban,88099,Travel,4973,Health & Beauty
+26,Female,Suburban,56060,Sports,3139,Apparel
+41,Female,Urban,114733,Fashion,4237,Electronics
+18,Male,Rural,89122,Travel,4144,Books
+61,Male,Suburban,36087,Food,4426,Apparel
+25,Male,Rural,68868,Sports,552,Health & Beauty
+41,Male,Urban,139119,Food,4061,Home & Kitchen
+28,Female,Urban,43225,Technology,1481,Electronics
+34,Female,Urban,115286,Sports,1567,Home & Kitchen
+25,Male,Suburban,26643,Travel,2838,Books
+52,Male,Rural,113059,Sports,1316,Apparel
+52,Female,Suburban,56727,Food,980,Apparel
+50,Male,Suburban,31005,Fashion,3914,Health & Beauty
+22,Female,Urban,129079,Sports,3249,Apparel
+59,Male,Suburban,85697,Travel,184,Electronics
+56,Male,Suburban,36029,Technology,4244,Books
+58,Male,Urban,135281,Fashion,1268,Home & Kitchen
+45,Male,Suburban,34226,Technology,4264,Books
+24,Male,Urban,83646,Sports,3229,Apparel
+26,Male,Urban,80603,Food,3745,Home & Kitchen
+25,Male,Urban,48731,Food,2626,Health & Beauty
+29,Female,Urban,129458,Travel,2967,Books
+51,Female,Suburban,130384,Food,3616,Home & Kitchen
+50,Female,Urban,88926,Fashion,3467,Home & Kitchen
+40,Female,Urban,25997,Food,2294,Home & Kitchen
+41,Female,Suburban,75506,Travel,3655,Electronics
+54,Male,Suburban,98229,Sports,545,Books
+52,Male,Rural,69815,Sports,3726,Home & Kitchen
+61,Female,Suburban,62092,Food,4116,Books
+57,Male,Suburban,82539,Technology,3975,Home & Kitchen
+39,Female,Rural,86077,Sports,3437,Health & Beauty
+44,Female,Suburban,41817,Food,361,Health & Beauty
+52,Male,Suburban,57861,Travel,1948,Health & Beauty
+18,Male,Suburban,33428,Food,4125,Apparel
+52,Male,Suburban,63934,Sports,2366,Home & Kitchen
+54,Female,Rural,135555,Travel,191,Apparel
+64,Male,Suburban,134367,Food,4322,Books
+31,Female,Suburban,30258,Fashion,4275,Apparel
+20,Female,Rural,77775,Travel,3409,Books
+18,Female,Urban,101580,Fashion,1082,Books
+22,Male,Rural,114947,Technology,3543,Books
+43,Male,Urban,25469,Travel,2633,Apparel
+31,Female,Rural,48854,Fashion,793,Home & Kitchen
+56,Male,Rural,26256,Sports,4220,Apparel
+44,Male,Suburban,144086,Sports,255,Home & Kitchen
+26,Male,Urban,96256,Technology,3688,Home & Kitchen
+32,Female,Suburban,53937,Travel,1912,Books
+32,Female,Urban,119134,Travel,4214,Apparel
+43,Male,Rural,21651,Travel,1507,Home & Kitchen
+59,Female,Rural,70288,Technology,1316,Health & Beauty
+30,Male,Urban,104730,Travel,1510,Home & Kitchen
+49,Male,Suburban,45051,Sports,3597,Health & Beauty
+56,Male,Suburban,47386,Fashion,4472,Apparel
+49,Male,Suburban,95054,Sports,4940,Apparel
+21,Female,Suburban,131562,Sports,651,Apparel
+47,Female,Rural,36184,Fashion,3494,Home & Kitchen
+54,Female,Rural,53787,Sports,1276,Electronics
+40,Male,Rural,41621,Technology,4834,Home & Kitchen
+56,Male,Rural,95564,Fashion,4432,Home & Kitchen
+62,Male,Rural,97984,Sports,1097,Books
+32,Female,Suburban,79792,Food,4176,Books
+60,Male,Suburban,65253,Sports,2831,Home & Kitchen
+46,Female,Suburban,54051,Technology,4037,Health & Beauty
+53,Female,Suburban,69811,Travel,4152,Books
+30,Female,Rural,50447,Sports,472,Home & Kitchen
+49,Female,Rural,148046,Travel,2348,Electronics
+24,Female,Rural,103930,Food,948,Health & Beauty
+39,Female,Urban,143278,Sports,2656,Apparel
+45,Male,Suburban,120037,Fashion,2422,Home & Kitchen
+19,Male,Suburban,50254,Travel,603,Home & Kitchen
+59,Female,Rural,104045,Food,3289,Health & Beauty
+62,Female,Suburban,136859,Fashion,802,Books
+23,Male,Suburban,77418,Fashion,3725,Books
+45,Female,Rural,134534,Fashion,414,Books
+45,Female,Urban,34472,Fashion,2476,Apparel
+61,Male,Urban,131193,Sports,1140,Health & Beauty
+61,Female,Urban,23471,Sports,4478,Health & Beauty
+37,Female,Rural,127332,Sports,3090,Books
+47,Female,Suburban,140312,Food,357,Books
+28,Male,Rural,143379,Food,674,Electronics
+45,Male,Rural,115804,Food,4769,Electronics
+42,Male,Suburban,28329,Technology,1652,Home & Kitchen
+56,Female,Urban,54865,Food,4618,Home & Kitchen
+50,Female,Urban,66850,Sports,857,Health & Beauty
+18,Male,Rural,74220,Sports,2910,Health & Beauty
+44,Female,Urban,132234,Technology,1204,Apparel
+30,Female,Rural,113808,Technology,4624,Apparel
+58,Female,Rural,128381,Food,3559,Electronics
+20,Female,Suburban,26397,Travel,4092,Home & Kitchen
+56,Female,Suburban,117909,Technology,303,Electronics
+23,Male,Suburban,149004,Fashion,2875,Electronics
+25,Female,Rural,55525,Sports,2432,Home & Kitchen
+44,Male,Suburban,73072,Fashion,2092,Apparel
+26,Female,Urban,110106,Sports,2343,Home & Kitchen
+54,Male,Urban,103820,Sports,406,Books
+50,Female,Rural,104530,Technology,1787,Books
+59,Male,Rural,43284,Technology,4209,Books
+61,Female,Suburban,81330,Fashion,1960,Health & Beauty
+41,Male,Rural,103369,Sports,2061,Apparel
+32,Female,Rural,45122,Fashion,822,Apparel
+49,Male,Urban,90553,Travel,879,Health & Beauty
+49,Female,Urban,101906,Fashion,628,Electronics
+41,Male,Suburban,114788,Food,4993,Books
+58,Male,Rural,82812,Fashion,443,Books
+29,Female,Rural,27999,Food,3886,Electronics
+56,Female,Urban,42436,Food,3782,Home & Kitchen
+19,Male,Rural,62963,Food,308,Home & Kitchen
+20,Female,Urban,22096,Travel,4836,Apparel
+54,Male,Suburban,149940,Fashion,3506,Health & Beauty
+34,Male,Urban,133737,Fashion,1411,Apparel
+19,Male,Rural,45279,Travel,2399,Home & Kitchen
+19,Female,Suburban,141092,Sports,3436,Electronics
+45,Male,Urban,128899,Technology,2047,Apparel
+40,Male,Urban,134245,Fashion,1019,Books
+54,Female,Suburban,46201,Technology,2144,Books
+49,Female,Suburban,39715,Travel,518,Electronics
+50,Female,Urban,49309,Sports,1849,Home & Kitchen
+18,Female,Rural,35078,Sports,2942,Books
+36,Male,Urban,76614,Sports,1199,Books
+19,Male,Suburban,25105,Travel,3492,Health & Beauty
+61,Male,Urban,137666,Food,2872,Apparel
+43,Male,Suburban,114848,Food,2580,Home & Kitchen
+49,Female,Suburban,22839,Technology,1645,Apparel
+23,Male,Rural,88920,Food,1170,Home & Kitchen
+49,Male,Suburban,63619,Food,1950,Books
+21,Female,Suburban,62821,Sports,4298,Health & Beauty
+28,Male,Rural,145736,Sports,3039,Apparel
+34,Male,Suburban,33493,Technology,2003,Books
+55,Male,Rural,37069,Fashion,778,Home & Kitchen
+41,Male,Rural,132443,Technology,1088,Apparel
+22,Male,Suburban,27531,Technology,2575,Apparel
+51,Male,Suburban,57051,Travel,1707,Books
+23,Female,Urban,27736,Travel,2969,Apparel
+39,Female,Rural,27710,Technology,1602,Health & Beauty
+28,Male,Urban,87155,Technology,1889,Health & Beauty
+33,Male,Suburban,33975,Technology,1525,Books
+50,Female,Urban,82424,Food,2540,Home & Kitchen
+26,Male,Rural,65603,Travel,2142,Books
+23,Male,Urban,43252,Technology,1378,Health & Beauty
+33,Male,Rural,100797,Sports,2694,Electronics
+46,Female,Suburban,21431,Sports,4789,Electronics
+20,Male,Suburban,94603,Food,2536,Apparel
+37,Female,Rural,57481,Food,3903,Apparel
+53,Male,Suburban,112573,Fashion,2305,Electronics
+36,Female,Suburban,29557,Fashion,1127,Health & Beauty
+43,Female,Suburban,94971,Fashion,3639,Apparel
+20,Male,Suburban,123302,Food,3583,Books
+36,Female,Rural,20162,Food,2341,Books
+37,Male,Urban,54742,Food,2865,Health & Beauty
+49,Female,Urban,39675,Sports,1273,Apparel
+24,Male,Suburban,93997,Food,3330,Books
+58,Male,Urban,37015,Sports,3450,Apparel
+50,Female,Urban,70057,Fashion,503,Apparel
+57,Male,Suburban,52591,Fashion,2825,Books
+56,Male,Suburban,113583,Fashion,3482,Electronics
+35,Female,Urban,146133,Technology,4263,Books
+57,Male,Rural,120318,Technology,187,Health & Beauty
+18,Male,Suburban,29833,Travel,1258,Home & Kitchen
+28,Female,Rural,27896,Travel,4373,Books
+45,Female,Urban,52972,Travel,2957,Apparel
+42,Male,Suburban,69733,Technology,1481,Apparel
+40,Male,Rural,140363,Technology,4781,Books
+48,Female,Suburban,61800,Travel,2164,Home & Kitchen
+47,Female,Urban,116044,Travel,2474,Books
+59,Male,Rural,25347,Food,417,Home & Kitchen
+52,Female,Urban,79063,Travel,1602,Home & Kitchen
+24,Male,Urban,115850,Food,2142,Health & Beauty
+33,Male,Suburban,22643,Sports,4698,Apparel
+43,Male,Rural,60785,Technology,2122,Apparel
+19,Male,Urban,38681,Travel,218,Home & Kitchen
+18,Male,Urban,70026,Technology,809,Apparel
+29,Female,Rural,123864,Technology,3657,Electronics
+22,Female,Urban,35892,Technology,4240,Home & Kitchen
+54,Female,Urban,67299,Sports,4509,Apparel
+49,Female,Rural,37073,Fashion,3350,Electronics
+26,Male,Rural,122304,Travel,517,Health & Beauty
+58,Male,Rural,50682,Fashion,2703,Apparel
+52,Male,Rural,117798,Fashion,3954,Electronics
+36,Male,Suburban,146021,Fashion,1201,Books
+33,Female,Rural,116894,Technology,4521,Books
+20,Male,Suburban,144302,Food,3528,Electronics
+37,Male,Suburban,34289,Technology,2361,Home & Kitchen
+41,Female,Suburban,135359,Technology,4269,Home & Kitchen
+50,Female,Urban,27927,Fashion,3734,Apparel
+41,Female,Suburban,68330,Technology,608,Books
+28,Female,Suburban,86707,Fashion,2479,Home & Kitchen
+25,Male,Urban,140279,Food,3264,Home & Kitchen
+53,Male,Urban,97454,Travel,787,Books
+55,Female,Urban,127439,Fashion,4852,Health & Beauty
+57,Male,Rural,124646,Food,1392,Home & Kitchen
+37,Male,Urban,85428,Travel,4005,Electronics
+52,Male,Urban,70601,Sports,3175,Apparel
+42,Female,Suburban,97465,Fashion,3309,Home & Kitchen
+52,Male,Urban,22539,Fashion,424,Home & Kitchen
+42,Female,Rural,122263,Sports,2093,Health & Beauty
+46,Male,Urban,131487,Sports,4076,Electronics
+35,Male,Rural,42669,Fashion,4912,Apparel
+63,Male,Urban,90968,Sports,2870,Home & Kitchen
+35,Female,Urban,40644,Technology,4472,Apparel
+19,Male,Urban,38745,Travel,2683,Books
+52,Female,Urban,140852,Travel,3657,Home & Kitchen
+33,Female,Rural,148081,Travel,3687,Home & Kitchen
+58,Female,Rural,48228,Technology,251,Books
+53,Male,Suburban,138358,Sports,1054,Health & Beauty
+50,Male,Rural,54521,Food,4454,Home & Kitchen
+21,Male,Urban,142788,Sports,2471,Apparel
+50,Male,Suburban,117239,Fashion,1291,Electronics
+31,Female,Suburban,46928,Travel,787,Apparel
+38,Female,Suburban,38322,Sports,409,Health & Beauty
+37,Female,Urban,77714,Food,1602,Electronics
+25,Male,Rural,107896,Fashion,3227,Apparel
+24,Female,Urban,82292,Technology,4668,Apparel
+20,Male,Suburban,49055,Technology,3467,Books
+34,Female,Urban,62891,Food,3495,Health & Beauty
+50,Male,Urban,101912,Fashion,913,Books
+29,Male,Rural,26588,Travel,945,Electronics
+39,Female,Rural,110536,Sports,1264,Books
+39,Female,Suburban,26304,Fashion,4862,Health & Beauty
+63,Female,Urban,27345,Technology,1867,Home & Kitchen
+47,Female,Urban,49300,Food,454,Home & Kitchen
+55,Male,Rural,44259,Food,1972,Electronics
+55,Female,Urban,111006,Sports,2124,Home & Kitchen
+62,Female,Urban,108553,Food,2917,Books
+25,Female,Urban,35352,Food,3932,Electronics
+44,Male,Rural,149350,Fashion,4375,Health & Beauty
+44,Male,Suburban,53365,Travel,165,Electronics
+51,Female,Suburban,39446,Sports,4366,Electronics
+38,Male,Urban,22336,Fashion,4190,Apparel
+47,Female,Suburban,82032,Travel,2621,Apparel
+50,Male,Rural,95415,Fashion,2681,Electronics
+45,Male,Rural,117852,Fashion,1490,Home & Kitchen
+64,Male,Suburban,118876,Food,1230,Apparel
+50,Male,Suburban,27521,Travel,2586,Health & Beauty
+22,Female,Urban,91707,Sports,934,Books
+36,Female,Suburban,43481,Sports,326,Apparel
+21,Female,Urban,38474,Travel,3615,Electronics
+52,Male,Urban,66760,Food,4637,Home & Kitchen
+34,Female,Rural,75718,Technology,2543,Books
+61,Female,Rural,64629,Fashion,827,Apparel
+45,Female,Rural,65232,Food,3786,Home & Kitchen
+47,Male,Rural,106544,Travel,3722,Home & Kitchen
+46,Male,Suburban,87169,Fashion,1136,Home & Kitchen
+63,Male,Rural,147941,Sports,1932,Electronics
+23,Female,Suburban,70669,Technology,2840,Health & Beauty
+52,Female,Rural,98021,Sports,592,Home & Kitchen
+58,Female,Suburban,129153,Travel,1648,Books
+54,Male,Urban,89184,Fashion,1243,Apparel
+41,Male,Suburban,67945,Travel,4057,Books
+46,Female,Suburban,33140,Fashion,3507,Electronics
+63,Male,Rural,146468,Food,739,Electronics
+48,Male,Suburban,103457,Technology,272,Books
+52,Male,Urban,34357,Food,4454,Health & Beauty
+50,Male,Urban,131672,Food,4059,Electronics
+38,Female,Rural,88673,Travel,616,Electronics
+49,Male,Urban,141673,Technology,622,Books
+40,Male,Suburban,85633,Fashion,2017,Electronics
+50,Male,Urban,96943,Fashion,2986,Health & Beauty
+20,Male,Rural,116111,Sports,2264,Health & Beauty
+35,Female,Suburban,98258,Fashion,2029,Health & Beauty
+42,Female,Rural,32924,Travel,4045,Apparel
+59,Male,Suburban,89286,Food,2309,Health & Beauty
+48,Male,Urban,113269,Food,3883,Health & Beauty
+20,Male,Rural,147563,Food,2690,Apparel
+57,Male,Rural,94071,Technology,4176,Home & Kitchen
+63,Male,Suburban,77326,Fashion,1193,Electronics
+41,Male,Rural,110023,Travel,3980,Health & Beauty
+49,Female,Suburban,140101,Technology,2594,Electronics
+64,Male,Suburban,50651,Sports,2679,Books
+39,Female,Suburban,90202,Travel,2588,Electronics
+40,Female,Suburban,68777,Travel,2885,Apparel
+19,Male,Urban,36994,Travel,2858,Electronics
+44,Female,Suburban,87263,Food,1674,Electronics
+59,Female,Rural,79634,Travel,2473,Electronics
+19,Female,Urban,120158,Fashion,4090,Home & Kitchen
+43,Female,Rural,30800,Travel,4945,Home & Kitchen
+34,Female,Urban,57823,Food,1193,Books
+57,Female,Suburban,128575,Travel,1289,Apparel
+50,Male,Urban,83878,Sports,2789,Electronics
+26,Female,Urban,38708,Sports,4195,Electronics
+60,Female,Rural,32819,Food,1975,Electronics
+56,Female,Rural,94905,Fashion,3506,Electronics
+46,Male,Suburban,83870,Fashion,1887,Home & Kitchen
+59,Female,Urban,29283,Technology,4032,Books
+43,Male,Urban,50573,Food,1707,Health & Beauty
+52,Female,Urban,98707,Travel,3848,Apparel
+42,Male,Suburban,50933,Food,148,Electronics
+41,Male,Suburban,25774,Technology,3961,Books
+30,Female,Suburban,92055,Food,2280,Health & Beauty
+24,Female,Suburban,30983,Food,3146,Books
+53,Male,Suburban,116468,Technology,2933,Home & Kitchen
+62,Female,Rural,116334,Fashion,1497,Health & Beauty
+37,Male,Urban,38133,Travel,3926,Books
+18,Male,Urban,145555,Technology,4674,Home & Kitchen
+25,Male,Urban,34939,Sports,931,Books
+63,Male,Urban,20781,Fashion,2797,Books
+33,Male,Urban,134586,Sports,4877,Health & Beauty
+31,Female,Urban,76700,Fashion,2835,Home & Kitchen
+29,Male,Urban,47624,Travel,181,Electronics
+40,Male,Urban,26823,Travel,186,Apparel
+32,Female,Rural,38489,Food,2163,Health & Beauty
+45,Male,Urban,138555,Sports,921,Home & Kitchen
+51,Female,Rural,59961,Fashion,262,Books
+19,Female,Suburban,139664,Travel,3839,Home & Kitchen
+49,Female,Urban,49118,Technology,2497,Apparel
+40,Male,Suburban,120417,Travel,2032,Apparel
+39,Male,Suburban,101816,Technology,2828,Electronics
+42,Male,Suburban,42263,Fashion,3635,Electronics
+39,Female,Rural,33565,Travel,3546,Apparel
+39,Male,Suburban,40354,Travel,2890,Health & Beauty
+59,Female,Suburban,62951,Fashion,2807,Health & Beauty
+23,Male,Suburban,111179,Travel,4033,Books
+32,Female,Urban,43648,Technology,3485,Electronics
+60,Male,Urban,70729,Travel,1022,Books
+54,Male,Rural,61971,Sports,2275,Electronics
+50,Male,Rural,38658,Food,1682,Apparel
+25,Female,Urban,41253,Technology,664,Health & Beauty
+61,Female,Rural,84166,Sports,3358,Health & Beauty
+61,Male,Urban,68563,Fashion,2697,Apparel
+22,Male,Suburban,46390,Technology,2600,Books
+56,Female,Suburban,108664,Food,4666,Books
+21,Female,Rural,71578,Food,1087,Home & Kitchen
+23,Female,Urban,99025,Fashion,3736,Electronics
+62,Male,Urban,123850,Fashion,323,Books
+49,Female,Rural,52658,Technology,450,Apparel
+47,Male,Urban,26852,Travel,2028,Books
+64,Female,Suburban,147282,Fashion,448,Health & Beauty
+52,Male,Rural,114986,Travel,4377,Electronics
+57,Female,Rural,22551,Sports,4832,Home & Kitchen
+33,Female,Urban,91947,Food,1117,Electronics
+30,Female,Rural,81001,Travel,2326,Health & Beauty
+59,Female,Urban,69159,Food,4967,Health & Beauty
+47,Female,Urban,142775,Travel,4224,Health & Beauty
+36,Male,Urban,71707,Sports,2519,Health & Beauty
+34,Female,Urban,53243,Fashion,1993,Apparel
+36,Female,Urban,41800,Sports,3140,Home & Kitchen
+45,Female,Rural,95939,Fashion,2168,Health & Beauty
+43,Male,Suburban,77828,Fashion,1225,Health & Beauty
+54,Female,Suburban,27239,Food,3217,Books
+43,Male,Rural,26710,Sports,4261,Home & Kitchen
+40,Female,Rural,41384,Travel,4142,Electronics
+26,Female,Suburban,41038,Sports,4533,Home & Kitchen
+29,Male,Suburban,60846,Food,2270,Home & Kitchen
+18,Female,Suburban,107983,Fashion,546,Home & Kitchen
+18,Male,Suburban,87821,Food,2758,Health & Beauty
+64,Male,Suburban,57991,Technology,3462,Health & Beauty
+51,Female,Urban,99057,Technology,2818,Apparel
+49,Male,Rural,133193,Travel,3583,Electronics
+42,Female,Urban,26971,Food,3044,Books
+57,Female,Suburban,49139,Travel,4476,Home & Kitchen
+62,Male,Suburban,105445,Travel,695,Electronics
+18,Male,Suburban,97067,Technology,2086,Electronics
+33,Male,Urban,100257,Travel,2850,Apparel
+56,Male,Urban,104742,Technology,1174,Books
+22,Female,Suburban,57711,Fashion,4069,Home & Kitchen
+39,Female,Urban,26530,Food,4405,Books
+46,Male,Urban,31116,Travel,4321,Apparel
+20,Female,Suburban,85794,Technology,4687,Health & Beauty
+29,Female,Urban,20282,Sports,3680,Electronics
+43,Female,Rural,99473,Travel,3107,Home & Kitchen
+33,Female,Rural,21898,Fashion,1069,Health & Beauty
+54,Male,Rural,24135,Fashion,680,Apparel
+39,Male,Rural,26629,Sports,2924,Books
+46,Female,Suburban,129472,Technology,4101,Electronics
+31,Male,Suburban,145147,Travel,1311,Home & Kitchen
+45,Male,Suburban,105120,Technology,329,Health & Beauty
+22,Male,Rural,139798,Fashion,4384,Health & Beauty
+64,Female,Rural,109087,Technology,3285,Electronics
+47,Female,Urban,85031,Fashion,601,Books
+63,Female,Urban,53380,Technology,2232,Apparel
+22,Male,Rural,149951,Sports,148,Books
+29,Female,Rural,132507,Food,3666,Books
+33,Female,Rural,37071,Sports,3155,Books
+43,Male,Rural,40074,Sports,788,Electronics
+43,Female,Urban,110724,Food,486,Electronics
+38,Female,Rural,87843,Food,1069,Apparel
+56,Male,Urban,59901,Travel,3560,Books
+53,Male,Rural,31205,Travel,1105,Electronics
+50,Male,Rural,75661,Sports,3152,Apparel
+47,Female,Rural,144661,Sports,3517,Apparel
+54,Female,Urban,25906,Fashion,2402,Books
+40,Female,Urban,22591,Fashion,2383,Home & Kitchen
+27,Male,Suburban,145576,Travel,1707,Books
+22,Male,Rural,82987,Travel,4466,Home & Kitchen
+53,Female,Suburban,83370,Fashion,222,Apparel
+51,Female,Suburban,100685,Fashion,1380,Electronics
+48,Male,Urban,130454,Technology,3827,Health & Beauty
+27,Male,Urban,125487,Technology,358,Apparel
+36,Male,Suburban,74400,Fashion,1047,Electronics
+49,Male,Rural,45150,Technology,624,Apparel
+18,Female,Urban,51852,Food,987,Books
+22,Male,Rural,62870,Travel,307,Home & Kitchen
+62,Female,Rural,139796,Travel,3482,Apparel
+21,Female,Suburban,72756,Fashion,2894,Electronics
+33,Female,Suburban,135357,Sports,248,Books
+41,Male,Suburban,139052,Fashion,537,Health & Beauty
+33,Male,Suburban,76481,Technology,2302,Books
+19,Male,Urban,21283,Sports,3849,Home & Kitchen
+45,Male,Urban,53691,Technology,3261,Books
+49,Female,Suburban,21125,Food,4001,Health & Beauty
+44,Male,Urban,87065,Technology,4553,Electronics
+37,Male,Suburban,148734,Food,3345,Apparel
+41,Female,Rural,46170,Food,4651,Home & Kitchen
+29,Male,Rural,28438,Technology,2923,Health & Beauty
+52,Female,Rural,40095,Technology,4824,Home & Kitchen
+50,Female,Suburban,36154,Food,3370,Books
+50,Female,Rural,28004,Sports,585,Home & Kitchen
+60,Female,Urban,29752,Food,299,Health & Beauty
+54,Female,Rural,75426,Travel,4566,Apparel
+29,Female,Rural,128896,Food,2082,Apparel
+20,Female,Rural,46819,Sports,1571,Home & Kitchen
+18,Female,Urban,122168,Travel,4443,Electronics
+50,Male,Suburban,112051,Fashion,4983,Home & Kitchen
+57,Male,Urban,147905,Fashion,2411,Books
+27,Male,Suburban,44217,Sports,3473,Apparel
+60,Male,Suburban,145949,Food,2178,Apparel
+61,Female,Rural,108708,Technology,1621,Apparel
+46,Male,Suburban,52994,Sports,704,Electronics
+30,Female,Urban,35036,Travel,3948,Electronics
+29,Male,Urban,97275,Travel,3442,Health & Beauty
+48,Male,Suburban,117756,Fashion,1517,Home & Kitchen
+63,Male,Rural,69416,Travel,4697,Home & Kitchen
+19,Female,Rural,29587,Sports,3975,Books
+52,Male,Urban,130053,Travel,3033,Apparel
+40,Female,Rural,115665,Sports,648,Electronics
+34,Female,Suburban,20645,Technology,938,Books
+43,Male,Suburban,50930,Fashion,3915,Books
+25,Male,Urban,101835,Travel,947,Electronics
+46,Male,Suburban,142232,Sports,4809,Home & Kitchen
+43,Female,Urban,50090,Food,4607,Apparel
+27,Male,Suburban,107489,Fashion,4873,Home & Kitchen
+43,Female,Urban,72142,Technology,4354,Books
+51,Female,Rural,131979,Sports,4568,Apparel
+58,Male,Suburban,46475,Technology,2372,Health & Beauty
+24,Male,Suburban,38888,Technology,3420,Books
+21,Female,Urban,63732,Travel,2658,Home & Kitchen
+62,Female,Urban,101623,Travel,4798,Home & Kitchen
+28,Female,Suburban,66305,Sports,4411,Home & Kitchen
+46,Male,Urban,66037,Food,2096,Electronics
+53,Female,Suburban,29346,Sports,3773,Books
+42,Male,Rural,20587,Food,1664,Apparel
+38,Female,Urban,32763,Technology,4118,Home & Kitchen
+53,Female,Suburban,79165,Fashion,1940,Home & Kitchen
+27,Male,Rural,127481,Sports,3391,Electronics
+54,Female,Rural,89615,Sports,2987,Apparel
+26,Male,Suburban,56116,Food,826,Books
+41,Male,Urban,140987,Technology,1344,Health & Beauty
+52,Female,Suburban,105751,Technology,3560,Electronics
+52,Male,Rural,111353,Food,3818,Books
+53,Male,Suburban,110301,Technology,1165,Health & Beauty
+35,Female,Urban,115648,Travel,4871,Home & Kitchen
+56,Male,Rural,45556,Fashion,382,Home & Kitchen
+49,Male,Suburban,79042,Sports,1181,Apparel
+41,Male,Urban,38099,Fashion,3985,Health & Beauty
+40,Female,Rural,129089,Sports,2981,Home & Kitchen
+49,Male,Urban,65096,Travel,2684,Home & Kitchen
+54,Female,Rural,91986,Technology,3070,Apparel
+29,Female,Suburban,33230,Food,1252,Books
+30,Male,Urban,49009,Travel,3597,Home & Kitchen
+40,Male,Rural,90969,Fashion,1047,Electronics
+42,Male,Urban,53866,Food,4860,Electronics
+52,Female,Urban,125400,Technology,1817,Books
+58,Male,Suburban,104246,Travel,166,Health & Beauty
+47,Male,Urban,96975,Food,736,Apparel
+34,Male,Rural,61855,Travel,413,Electronics
+37,Male,Rural,101557,Travel,3497,Electronics
+42,Male,Rural,26416,Technology,664,Books
+39,Female,Rural,92516,Sports,1701,Health & Beauty
+30,Female,Suburban,75915,Food,925,Health & Beauty
+36,Male,Urban,38058,Technology,3770,Books
+53,Male,Suburban,96637,Travel,1125,Electronics
+29,Male,Urban,60718,Technology,2351,Apparel
+58,Male,Urban,52602,Sports,4857,Electronics
+36,Female,Urban,94658,Food,904,Health & Beauty
+29,Male,Suburban,98112,Sports,2551,Electronics
+26,Female,Urban,78067,Fashion,4731,Apparel
+24,Female,Suburban,47516,Food,1491,Home & Kitchen
+45,Male,Rural,149295,Sports,1335,Electronics
+31,Female,Rural,107969,Travel,4132,Books
+48,Female,Urban,21089,Food,3380,Home & Kitchen
+36,Female,Suburban,57346,Food,4823,Books
+64,Female,Rural,94663,Technology,4944,Books
+33,Male,Suburban,30487,Travel,3649,Books
+22,Male,Suburban,20155,Fashion,4300,Electronics
+52,Female,Urban,143950,Sports,4241,Health & Beauty
+29,Male,Rural,87494,Technology,1454,Home & Kitchen
+42,Male,Urban,96229,Sports,1936,Apparel
+38,Male,Urban,124648,Fashion,2992,Health & Beauty
+53,Male,Rural,58547,Fashion,2596,Electronics
+40,Male,Rural,48795,Food,2683,Books
+33,Female,Suburban,75296,Fashion,2658,Apparel
+56,Male,Rural,41447,Sports,3718,Home & Kitchen
+62,Male,Suburban,56598,Travel,1659,Health & Beauty
+59,Male,Suburban,61814,Travel,1607,Health & Beauty
+56,Male,Suburban,110751,Food,4171,Apparel
+31,Female,Rural,145118,Sports,2163,Electronics
+48,Female,Urban,95330,Sports,3742,Home & Kitchen
+22,Female,Suburban,141347,Fashion,2100,Apparel
+52,Female,Urban,118745,Sports,1394,Books
+40,Male,Urban,107960,Technology,4165,Home & Kitchen
+46,Female,Rural,83278,Fashion,2852,Health & Beauty
+60,Male,Urban,75077,Technology,1853,Apparel
+28,Male,Urban,132782,Food,4310,Health & Beauty
+35,Male,Rural,142046,Travel,1703,Health & Beauty
+64,Male,Suburban,122932,Food,1422,Health & Beauty
+29,Male,Urban,91906,Travel,2541,Electronics
+26,Female,Rural,29528,Food,1198,Health & Beauty
+27,Female,Urban,113812,Sports,1605,Books
+61,Female,Urban,70100,Technology,1226,Books
+34,Female,Suburban,129869,Travel,396,Home & Kitchen
+55,Male,Urban,28179,Fashion,3149,Health & Beauty
+24,Female,Rural,68781,Technology,2325,Health & Beauty
+63,Male,Urban,75267,Fashion,4454,Apparel
+30,Female,Suburban,102379,Technology,3887,Electronics
+57,Male,Suburban,43952,Technology,2196,Home & Kitchen
+59,Male,Rural,73798,Food,3709,Health & Beauty
+26,Female,Suburban,118696,Travel,2308,Apparel
+44,Male,Urban,130434,Travel,275,Electronics
+19,Male,Suburban,70939,Technology,2602,Home & Kitchen
+22,Female,Rural,49516,Sports,4099,Home & Kitchen
+46,Male,Suburban,76526,Sports,1767,Health & Beauty
+54,Female,Suburban,30449,Fashion,4471,Home & Kitchen
+55,Female,Suburban,70290,Fashion,2645,Apparel
+36,Female,Rural,146688,Food,775,Home & Kitchen
+25,Male,Suburban,106661,Technology,1923,Books
+62,Male,Suburban,92954,Fashion,1456,Apparel
+18,Male,Urban,42746,Fashion,3172,Electronics
+39,Female,Rural,87990,Technology,3359,Electronics
+34,Male,Suburban,78810,Food,646,Health & Beauty
+24,Female,Rural,138362,Fashion,2183,Health & Beauty
+42,Female,Suburban,103297,Food,2140,Books
+62,Male,Suburban,35223,Travel,4634,Electronics
+21,Female,Suburban,92237,Food,1852,Electronics
+53,Male,Urban,22597,Sports,1715,Electronics
+23,Male,Urban,85677,Sports,1949,Electronics
+48,Male,Urban,22659,Food,2742,Home & Kitchen
+36,Male,Rural,106516,Sports,1700,Apparel
+61,Male,Rural,94567,Travel,3496,Apparel
+56,Female,Urban,35037,Technology,4502,Books
+44,Female,Rural,146498,Sports,3705,Home & Kitchen
+27,Female,Suburban,66738,Sports,3899,Electronics
+43,Male,Suburban,123965,Food,718,Electronics
+36,Male,Suburban,91678,Travel,1232,Health & Beauty
+56,Male,Urban,32109,Technology,2215,Health & Beauty
+20,Female,Rural,42010,Food,2439,Books
+62,Male,Urban,28787,Food,2839,Electronics
+30,Female,Rural,128400,Travel,4376,Books
+45,Female,Suburban,28472,Technology,1587,Home & Kitchen
+37,Male,Urban,135111,Travel,1657,Apparel
+45,Male,Rural,43383,Technology,2213,Electronics
+25,Female,Rural,81709,Travel,1144,Home & Kitchen
+58,Male,Suburban,89785,Food,2531,Electronics
+56,Female,Urban,133253,Food,1682,Health & Beauty
+18,Male,Urban,54518,Fashion,1408,Books
+20,Male,Urban,73909,Sports,701,Health & Beauty
+30,Female,Suburban,38351,Travel,1720,Apparel
+45,Male,Urban,89624,Fashion,4980,Health & Beauty
+42,Female,Suburban,73330,Sports,4866,Electronics
+50,Male,Suburban,142477,Travel,200,Health & Beauty
+55,Female,Suburban,35282,Technology,4371,Electronics
+23,Female,Rural,104866,Sports,337,Apparel
+61,Male,Urban,127945,Food,4125,Health & Beauty
+62,Female,Urban,41778,Fashion,3018,Books
+49,Male,Suburban,44264,Sports,2642,Books
+62,Male,Suburban,79675,Sports,2103,Books
+64,Male,Urban,25075,Food,1637,Health & Beauty
+38,Female,Suburban,95948,Travel,854,Health & Beauty
+33,Female,Urban,68454,Technology,3468,Health & Beauty
+38,Male,Rural,48365,Food,2358,Electronics
+28,Male,Suburban,92766,Technology,3765,Apparel
+54,Female,Urban,68200,Travel,4335,Books
+53,Male,Suburban,31002,Sports,640,Electronics
+52,Male,Urban,33947,Technology,369,Books
+36,Female,Urban,99222,Fashion,3560,Electronics
+37,Male,Suburban,114840,Fashion,3508,Health & Beauty
+35,Female,Rural,136219,Food,605,Books
+64,Male,Urban,98610,Travel,1229,Health & Beauty
+58,Female,Urban,72142,Food,2179,Books
+31,Male,Urban,76307,Food,3245,Home & Kitchen
+32,Male,Rural,24493,Food,3342,Electronics
+48,Female,Rural,144023,Fashion,461,Home & Kitchen
+18,Male,Suburban,70085,Fashion,3820,Electronics
+20,Female,Rural,54228,Food,1556,Apparel
+33,Male,Suburban,99676,Fashion,4167,Books
+40,Female,Suburban,71875,Travel,4295,Apparel
+28,Female,Rural,51655,Food,1781,Apparel
+29,Female,Suburban,63472,Fashion,1152,Electronics
+27,Female,Rural,69437,Technology,2609,Home & Kitchen
+49,Male,Suburban,69416,Food,4827,Health & Beauty
+33,Male,Rural,79711,Food,781,Electronics
+25,Female,Rural,26816,Travel,4032,Health & Beauty
+55,Female,Suburban,97175,Sports,2229,Apparel
+29,Female,Urban,84307,Sports,4949,Health & Beauty
+41,Male,Suburban,132728,Travel,4116,Home & Kitchen
+45,Male,Rural,66733,Travel,3402,Electronics
+25,Male,Urban,148202,Travel,819,Home & Kitchen
+45,Male,Suburban,115028,Sports,174,Home & Kitchen
+53,Female,Suburban,136450,Travel,1393,Electronics
+43,Female,Suburban,31240,Fashion,2022,Home & Kitchen
+25,Female,Urban,118234,Food,4257,Books
+45,Male,Rural,112493,Food,419,Books
+45,Male,Suburban,145149,Technology,2249,Books
+54,Male,Suburban,118344,Technology,1552,Health & Beauty
+58,Female,Suburban,91363,Food,1655,Home & Kitchen
+53,Female,Suburban,52762,Fashion,4307,Electronics
+44,Male,Suburban,28259,Sports,3132,Electronics
+34,Female,Rural,70139,Sports,560,Health & Beauty
+26,Male,Rural,148775,Fashion,986,Electronics
+50,Male,Suburban,34849,Sports,3633,Books
+37,Female,Urban,101768,Travel,4036,Home & Kitchen
+30,Male,Rural,126108,Food,1215,Electronics
+45,Female,Urban,109709,Food,1175,Electronics
+46,Male,Rural,74869,Fashion,3976,Apparel
+30,Female,Suburban,146888,Sports,4715,Apparel
+63,Female,Rural,83095,Technology,2024,Apparel
+52,Female,Suburban,137886,Technology,1026,Home & Kitchen
+23,Male,Rural,90910,Sports,4752,Books
+35,Male,Suburban,106710,Technology,2381,Books
+22,Female,Suburban,43567,Fashion,1155,Books
+64,Female,Suburban,55292,Fashion,4774,Home & Kitchen
+42,Male,Suburban,94813,Sports,641,Home & Kitchen
+19,Male,Urban,117136,Technology,2261,Apparel
+27,Male,Suburban,71631,Fashion,2351,Electronics
+47,Female,Urban,29885,Fashion,1152,Health & Beauty
+62,Male,Urban,79659,Travel,4669,Health & Beauty
+22,Male,Suburban,74306,Travel,2844,Electronics
+50,Female,Urban,86314,Fashion,3969,Apparel
+18,Male,Rural,85087,Sports,4581,Electronics
+35,Male,Suburban,49165,Food,4257,Electronics
+49,Male,Urban,78929,Food,4710,Health & Beauty
+64,Female,Suburban,87028,Fashion,4625,Apparel
+28,Female,Suburban,115998,Fashion,4775,Home & Kitchen
+38,Female,Suburban,69812,Fashion,1660,Health & Beauty
+43,Female,Urban,70500,Sports,3862,Home & Kitchen
+42,Female,Rural,99151,Travel,1264,Apparel
+39,Female,Rural,78643,Fashion,2822,Electronics
+44,Female,Urban,64900,Fashion,2458,Books
+30,Male,Suburban,62946,Technology,570,Books
+50,Male,Urban,27851,Sports,1516,Apparel
+51,Female,Urban,36288,Fashion,1568,Books
+58,Male,Urban,92692,Technology,908,Home & Kitchen
+52,Male,Suburban,87580,Food,271,Books
+18,Female,Urban,27368,Fashion,4226,Apparel
+38,Male,Suburban,105436,Fashion,4242,Apparel
+23,Male,Urban,116136,Technology,4325,Home & Kitchen
+45,Male,Rural,66403,Sports,2499,Books
+34,Male,Urban,111170,Fashion,1745,Books
+22,Male,Urban,29168,Food,157,Electronics
+48,Female,Rural,106497,Fashion,1229,Health & Beauty
+22,Female,Suburban,69879,Food,1453,Apparel
+55,Female,Suburban,79871,Travel,867,Electronics
+20,Male,Urban,129632,Travel,3995,Apparel
+40,Female,Rural,131623,Food,782,Electronics
+54,Male,Suburban,109388,Sports,3554,Health & Beauty
+54,Male,Urban,118646,Fashion,2108,Electronics
+27,Male,Rural,52174,Fashion,3242,Apparel
+27,Male,Suburban,119751,Travel,1890,Books
+36,Female,Suburban,112491,Food,1577,Apparel
+34,Female,Rural,26581,Fashion,985,Home & Kitchen
+38,Male,Rural,130155,Fashion,4006,Home & Kitchen
+31,Female,Rural,91853,Sports,4592,Home & Kitchen
+26,Male,Rural,84046,Technology,1638,Home & Kitchen
+63,Female,Urban,69678,Travel,2173,Health & Beauty
+18,Female,Rural,128392,Travel,412,Books
+62,Male,Suburban,131250,Technology,910,Books
+30,Female,Suburban,46649,Fashion,2335,Apparel
+21,Male,Urban,147795,Sports,2957,Electronics
+18,Female,Suburban,108668,Sports,2863,Apparel
+57,Male,Suburban,102325,Travel,2132,Apparel
+49,Male,Rural,34567,Sports,1607,Apparel
+51,Female,Suburban,100404,Technology,4645,Apparel
+45,Female,Urban,109906,Fashion,2670,Books
+48,Male,Rural,128069,Technology,1994,Electronics
+25,Female,Rural,116019,Food,2805,Apparel
+56,Female,Urban,81944,Travel,696,Books
+43,Male,Rural,138428,Sports,2247,Apparel
+51,Male,Rural,98002,Food,715,Home & Kitchen
+20,Female,Urban,48803,Sports,1047,Apparel
+29,Male,Rural,38230,Fashion,4751,Apparel
+18,Male,Urban,37862,Fashion,4473,Health & Beauty
+61,Male,Urban,63355,Fashion,3864,Home & Kitchen
+22,Female,Suburban,51259,Sports,2113,Electronics
+47,Female,Suburban,119075,Food,3797,Apparel
+47,Male,Rural,107445,Fashion,590,Electronics
+34,Female,Rural,50795,Food,4450,Home & Kitchen
+64,Male,Urban,134604,Sports,2528,Apparel
+40,Female,Rural,28770,Food,641,Health & Beauty
+32,Male,Urban,31093,Sports,1387,Books
+54,Male,Urban,66571,Sports,1733,Health & Beauty
+38,Female,Rural,20193,Travel,3026,Health & Beauty
+31,Male,Urban,120311,Sports,1452,Books
+19,Female,Suburban,37569,Sports,4476,Books
+28,Female,Rural,137082,Technology,1398,Books
+56,Male,Suburban,31190,Fashion,4968,Apparel
+55,Male,Rural,82824,Travel,4067,Electronics
+51,Female,Urban,62752,Travel,4523,Electronics
+55,Male,Rural,52327,Travel,2358,Books
+51,Male,Suburban,62070,Technology,4747,Health & Beauty
+35,Male,Urban,105925,Sports,2173,Home & Kitchen
+47,Male,Rural,60197,Fashion,801,Books
+32,Male,Rural,22261,Food,2019,Health & Beauty
+44,Female,Rural,138424,Sports,2560,Health & Beauty
+51,Female,Suburban,113905,Technology,4362,Apparel
+55,Male,Suburban,46512,Sports,4364,Apparel
+50,Male,Rural,26716,Sports,4424,Electronics
+41,Male,Urban,106795,Technology,466,Electronics
+32,Female,Urban,48933,Travel,627,Home & Kitchen
+47,Male,Suburban,127225,Travel,4986,Home & Kitchen
+59,Female,Urban,24378,Fashion,3818,Home & Kitchen
+34,Female,Suburban,60583,Fashion,3709,Home & Kitchen
+22,Female,Rural,132082,Travel,4035,Health & Beauty
+46,Male,Suburban,105371,Food,4719,Health & Beauty
+21,Female,Suburban,49033,Sports,2253,Electronics
+27,Male,Rural,44000,Food,2008,Apparel
+34,Female,Urban,131032,Sports,3112,Apparel
+27,Male,Suburban,95868,Travel,4328,Books
+34,Female,Suburban,62604,Fashion,3122,Health & Beauty
+37,Male,Rural,88336,Fashion,3583,Home & Kitchen
+41,Female,Urban,115074,Food,2820,Home & Kitchen
+22,Male,Suburban,115655,Fashion,1870,Books
+51,Male,Rural,93869,Travel,4213,Apparel
+23,Male,Suburban,25410,Food,1877,Home & Kitchen
+19,Male,Rural,103375,Sports,4312,Apparel
+30,Female,Urban,76044,Fashion,897,Books
+60,Female,Urban,83315,Technology,3315,Apparel
+60,Male,Urban,116055,Fashion,3888,Apparel
+28,Female,Urban,91344,Sports,3076,Apparel
+64,Male,Suburban,26796,Food,3837,Home & Kitchen
+40,Male,Suburban,106716,Sports,1811,Electronics
+33,Female,Urban,74245,Technology,852,Health & Beauty
+48,Male,Urban,63056,Travel,2569,Apparel
+28,Male,Urban,37709,Fashion,4069,Apparel
+33,Female,Suburban,139664,Food,1492,Apparel
+25,Male,Urban,78557,Travel,2705,Electronics
+21,Male,Urban,37543,Sports,777,Books
+57,Male,Urban,57418,Food,205,Home & Kitchen
+21,Male,Rural,114611,Travel,3387,Electronics
+42,Female,Urban,123291,Food,4853,Apparel
+20,Female,Rural,133504,Technology,2046,Electronics
+49,Female,Rural,123001,Technology,1195,Electronics
+20,Male,Urban,116038,Fashion,1882,Electronics
+44,Male,Rural,36724,Fashion,4641,Books
+46,Female,Urban,23828,Technology,3357,Health & Beauty
+49,Male,Suburban,136656,Food,2097,Home & Kitchen
+36,Male,Suburban,37087,Technology,4969,Books
+38,Male,Suburban,32605,Fashion,1661,Books
+22,Male,Suburban,51337,Technology,4106,Health & Beauty
+35,Female,Rural,25482,Technology,1775,Books
+45,Female,Urban,85333,Food,1222,Electronics
+59,Female,Urban,112541,Travel,4081,Electronics
+39,Male,Urban,108296,Fashion,1401,Apparel
+38,Female,Suburban,70952,Food,1043,Books
+23,Female,Suburban,25463,Technology,4650,Apparel
+18,Male,Urban,132164,Technology,1045,Home & Kitchen
+22,Male,Suburban,90448,Travel,700,Electronics
+58,Female,Urban,24648,Fashion,2800,Home & Kitchen
+29,Female,Urban,53623,Fashion,4920,Health & Beauty
+43,Female,Urban,79156,Sports,1517,Electronics
+63,Female,Urban,55634,Fashion,1624,Home & Kitchen
+51,Male,Urban,64602,Travel,3866,Health & Beauty
+31,Female,Urban,134598,Sports,350,Home & Kitchen
+43,Female,Urban,69334,Sports,1644,Health & Beauty
+62,Male,Suburban,88648,Technology,178,Health & Beauty
+44,Female,Urban,42054,Technology,3223,Electronics
+26,Male,Urban,90028,Fashion,997,Apparel
+43,Male,Suburban,42207,Sports,4976,Health & Beauty
+64,Male,Suburban,100650,Technology,325,Health & Beauty
+39,Female,Suburban,119821,Travel,1309,Electronics
+64,Female,Urban,101554,Technology,4998,Apparel
+47,Male,Rural,41386,Technology,4937,Books
+60,Female,Rural,103276,Sports,2278,Books
+34,Female,Suburban,79518,Sports,2779,Apparel
+43,Male,Rural,72781,Food,2985,Home & Kitchen
+53,Male,Suburban,72780,Travel,2906,Electronics
+18,Female,Urban,81440,Sports,803,Apparel
+25,Male,Rural,64199,Fashion,2644,Books
+52,Female,Urban,81035,Travel,2470,Health & Beauty
+32,Female,Rural,28210,Travel,3381,Books
+64,Female,Urban,64363,Sports,4810,Health & Beauty
+39,Female,Rural,131175,Travel,428,Electronics
+31,Male,Urban,98279,Sports,4328,Health & Beauty
+43,Male,Urban,80348,Technology,220,Apparel
+45,Male,Rural,75284,Food,1064,Health & Beauty
+40,Male,Urban,127628,Technology,4324,Home & Kitchen
+31,Female,Urban,129835,Sports,3775,Apparel
+41,Female,Urban,92124,Sports,2176,Electronics
+19,Male,Rural,88847,Technology,432,Apparel
+62,Female,Rural,42432,Fashion,3468,Home & Kitchen
+43,Female,Urban,146252,Fashion,1416,Electronics
+31,Female,Urban,84089,Fashion,1296,Books
+24,Male,Rural,75398,Sports,3270,Home & Kitchen
+20,Male,Rural,119291,Travel,1529,Electronics
+64,Male,Urban,23321,Sports,455,Health & Beauty
+40,Female,Urban,101348,Travel,4334,Apparel
+63,Male,Urban,57383,Technology,1626,Electronics
+60,Male,Suburban,133816,Food,3997,Apparel
+64,Male,Rural,98682,Travel,128,Health & Beauty
+62,Male,Suburban,143053,Fashion,1113,Electronics
+35,Male,Rural,99190,Sports,2802,Books
+55,Male,Rural,72893,Technology,927,Home & Kitchen
+52,Female,Rural,55820,Fashion,4546,Electronics
+32,Female,Rural,141262,Technology,2124,Health & Beauty
+42,Male,Rural,86262,Food,398,Electronics
+54,Male,Rural,23760,Sports,1965,Apparel
+45,Female,Rural,42190,Sports,4116,Electronics
+27,Female,Suburban,87411,Food,2211,Books
+56,Male,Urban,43377,Sports,854,Electronics
+34,Male,Urban,66737,Travel,869,Home & Kitchen
+56,Male,Suburban,89569,Technology,3835,Electronics
+39,Male,Suburban,58211,Fashion,1338,Apparel
+43,Female,Suburban,102909,Food,2313,Electronics
+61,Male,Suburban,23744,Travel,2006,Books
+42,Male,Rural,145566,Fashion,1664,Health & Beauty
+34,Male,Urban,44995,Fashion,1318,Electronics
+30,Male,Rural,36977,Food,4701,Electronics
+37,Female,Urban,149508,Travel,1457,Home & Kitchen
+42,Female,Urban,117938,Fashion,3939,Books
+21,Female,Suburban,54542,Fashion,1560,Health & Beauty
+27,Male,Rural,30651,Travel,4085,Apparel
+20,Male,Suburban,119239,Sports,1516,Electronics
+58,Female,Rural,98931,Fashion,2953,Health & Beauty
+62,Male,Urban,115344,Technology,4956,Apparel
+35,Male,Suburban,122112,Travel,1528,Books
+64,Female,Suburban,36715,Fashion,4478,Books
+53,Female,Urban,64409,Food,4574,Health & Beauty
+64,Female,Urban,44306,Technology,4393,Apparel
+39,Female,Urban,39086,Fashion,3162,Books
+51,Male,Suburban,34376,Technology,3171,Health & Beauty
+64,Male,Rural,81350,Technology,655,Books
+25,Female,Suburban,91425,Sports,455,Books
+57,Male,Rural,123358,Technology,1663,Books
+61,Female,Suburban,56636,Sports,3600,Home & Kitchen
+36,Female,Suburban,106120,Travel,1140,Apparel
+59,Male,Urban,134889,Sports,2786,Health & Beauty
+58,Female,Rural,71649,Food,4574,Health & Beauty
+54,Male,Suburban,54610,Fashion,4875,Apparel
+23,Male,Suburban,30058,Travel,2653,Apparel
+43,Male,Urban,144876,Travel,1879,Apparel
+51,Male,Urban,148265,Food,175,Apparel
+62,Female,Rural,94637,Sports,4426,Electronics
+23,Male,Suburban,98033,Fashion,3419,Health & Beauty
+54,Female,Rural,90194,Sports,2449,Electronics
+50,Female,Suburban,96917,Technology,2873,Books
+39,Female,Rural,84200,Sports,2362,Books
+38,Female,Urban,125848,Travel,3329,Health & Beauty
+23,Male,Suburban,126022,Fashion,2216,Books
+23,Male,Rural,66619,Sports,492,Apparel
+21,Female,Urban,37154,Fashion,1208,Electronics
+47,Female,Urban,39539,Fashion,4462,Apparel
+28,Male,Rural,145381,Technology,710,Books
+47,Female,Suburban,80058,Technology,2875,Electronics
+48,Male,Suburban,82068,Travel,4098,Apparel
+41,Female,Urban,97313,Food,772,Health & Beauty
+26,Male,Suburban,119932,Fashion,3777,Apparel
+20,Female,Suburban,50373,Food,130,Books
+48,Female,Suburban,53154,Travel,1500,Electronics
+57,Male,Urban,26031,Fashion,4171,Health & Beauty
+54,Female,Rural,113533,Fashion,716,Electronics
+53,Female,Suburban,91975,Food,4734,Health & Beauty
+41,Male,Urban,42785,Sports,2886,Electronics
+48,Female,Urban,98928,Technology,970,Books
+23,Male,Rural,138696,Sports,4296,Health & Beauty
+19,Male,Suburban,48669,Food,3704,Home & Kitchen
+37,Female,Suburban,114475,Technology,1512,Electronics
+45,Female,Rural,137154,Sports,2839,Electronics
+28,Female,Rural,22282,Technology,1040,Apparel
+21,Female,Urban,54624,Fashion,440,Health & Beauty
+32,Female,Urban,68438,Sports,3008,Home & Kitchen
+23,Female,Rural,109900,Technology,4233,Books
+47,Female,Suburban,87534,Technology,759,Apparel
+55,Male,Urban,51705,Technology,2133,Home & Kitchen
+19,Female,Urban,58244,Sports,1660,Health & Beauty
+32,Male,Suburban,94964,Travel,3557,Home & Kitchen
+28,Female,Urban,57437,Sports,1756,Electronics
+25,Female,Suburban,97872,Food,3075,Electronics
+43,Male,Suburban,94878,Sports,1149,Apparel
+62,Female,Suburban,139006,Technology,553,Health & Beauty
+61,Female,Rural,125368,Fashion,1804,Health & Beauty
+22,Male,Rural,92982,Sports,2884,Home & Kitchen
+23,Female,Rural,70583,Sports,918,Apparel
+43,Female,Suburban,58392,Technology,4968,Health & Beauty
+21,Female,Suburban,27461,Fashion,112,Electronics
+36,Male,Rural,120123,Fashion,4079,Home & Kitchen
+37,Female,Urban,30516,Food,1020,Books
+50,Female,Suburban,99285,Sports,2518,Electronics
+37,Female,Urban,37514,Fashion,1414,Apparel
+29,Female,Urban,148657,Fashion,3777,Health & Beauty
+64,Male,Suburban,141251,Travel,2117,Electronics
+18,Male,Suburban,120962,Travel,1328,Books
+43,Female,Urban,56268,Fashion,4892,Books
+31,Female,Urban,110486,Food,2534,Apparel
+55,Male,Rural,120424,Fashion,2968,Electronics
+54,Male,Rural,56788,Technology,2615,Home & Kitchen
+28,Female,Suburban,95749,Sports,1538,Electronics
+53,Male,Rural,81049,Food,4264,Books
+30,Female,Rural,82493,Technology,3643,Apparel
+60,Male,Rural,56027,Food,3275,Apparel
+20,Male,Rural,113547,Technology,1881,Home & Kitchen
+50,Male,Urban,62849,Sports,2363,Apparel
+23,Male,Suburban,120127,Sports,2069,Apparel
+27,Female,Rural,37858,Travel,311,Apparel
+22,Male,Urban,104162,Technology,607,Apparel
+40,Male,Urban,99003,Travel,431,Apparel
+27,Female,Urban,72395,Technology,650,Books
+61,Male,Rural,59758,Travel,1041,Electronics
+19,Male,Rural,74312,Sports,827,Health & Beauty
